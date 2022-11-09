@@ -1147,3 +1147,109 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.11.09-20.26.09:719][856]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Characters/BP_Hero_Quinn.BP_Hero_Quinn
 [2022.11.09-20.26.09:719][856]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
 [2022.11.09-20.26.12:762][ 82]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2022.11.09-21.15.15:925][ 37]LogDerivedDataCache: C:/Users/EMI/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.831 and deleted 0 file(s) with total size 0 MiB.
+[2022.11.09-21.17.54:024][770]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2022.11.09-21.17.54:030][770]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Map_01' took 0.060
+[2022.11.09-21.17.54:031][770]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Characters/BP_Hero_Quinn] ([2] browsable assets)...
+[2022.11.09-21.17.54:062][770]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/Characters/BP_Hero_Quinn.BP_Hero_Quinn_C]
+[2022.11.09-21.17.54:067][770]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Characters/BP_Hero_Quinn.BP_Hero_Quinn]
+[2022.11.09-21.17.54:067][770]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/BP_Hero_Quinn]
+[2022.11.09-21.17.54:128][770]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/BP_Hero_Quinn_Auto2
+[2022.11.09-21.17.54:129][770]LogSavePackage: Moving '../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Saved/BP_Hero_Quinn_Auto2FF6B4396417417FC5FAEAC85028AB223.tmp' to '../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Saved/Autosaves/Game/Characters/BP_Hero_Quinn_Auto2.uasset'
+[2022.11.09-21.17.54:131][770]LogFileHelpers: Auto-saving content packages took 0.100
+[2022.11.09-21.18.35:328][916]BlueprintLog: New page: Compile BP_Hero_Quinn
+[2022.11.09-21.18.35:506][916]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2022.11.09-21.18.35:995][952]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/BP_Hero_Quinn" FILE="../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Content/Characters/BP_Hero_Quinn.uasset" SILENT=true
+[2022.11.09-21.18.36:053][952]LogSavePackage: Moving output files for package: /Game/Characters/BP_Hero_Quinn
+[2022.11.09-21.18.36:054][952]LogSavePackage: Moving '../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Saved/BP_Hero_Quinn7B3FB3E84365866B50D414AA66110B5B.tmp' to '../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Content/Characters/BP_Hero_Quinn.uasset'
+[2022.11.09-21.18.36:071][952]AssetCheck: New page: Asset Save: BP_Hero_Quinn
+[2022.11.09-21.18.36:071][952]LogContentValidation: Display: Validating Blueprint /Game/Characters/BP_Hero_Quinn.BP_Hero_Quinn
+[2022.11.09-21.19.07:637][ 56]BlueprintLog: New page: Compile BP_Hero_Quinn
+[2022.11.09-21.19.07:821][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2022.11.09-21.19.08:309][ 92]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/BP_Hero_Quinn" FILE="../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Content/Characters/BP_Hero_Quinn.uasset" SILENT=true
+[2022.11.09-21.19.08:366][ 92]LogSavePackage: Moving output files for package: /Game/Characters/BP_Hero_Quinn
+[2022.11.09-21.19.08:367][ 92]LogSavePackage: Moving '../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Saved/BP_Hero_Quinn916D0E5F418BC4D4B187A9AFD48043F1.tmp' to '../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Content/Characters/BP_Hero_Quinn.uasset'
+[2022.11.09-21.19.08:383][ 92]AssetCheck: New page: Asset Save: BP_Hero_Quinn
+[2022.11.09-21.19.08:383][ 92]LogContentValidation: Display: Validating Blueprint /Game/Characters/BP_Hero_Quinn.BP_Hero_Quinn
+[2022.11.09-21.20.37:487][744]BlueprintLog: New page: Compile BP_Hero_Quinn
+[2022.11.09-21.20.37:677][744]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2022.11.09-21.20.38:170][780]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/BP_Hero_Quinn" FILE="../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Content/Characters/BP_Hero_Quinn.uasset" SILENT=true
+[2022.11.09-21.20.38:232][780]LogSavePackage: Moving output files for package: /Game/Characters/BP_Hero_Quinn
+[2022.11.09-21.20.38:233][780]LogSavePackage: Moving '../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Saved/BP_Hero_QuinnF12DDB8548193D6A0DD43FB7AB3DCBDD.tmp' to '../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Content/Characters/BP_Hero_Quinn.uasset'
+[2022.11.09-21.20.38:247][780]AssetCheck: New page: Asset Save: BP_Hero_Quinn
+[2022.11.09-21.20.38:247][780]LogContentValidation: Display: Validating Blueprint /Game/Characters/BP_Hero_Quinn.BP_Hero_Quinn
+[2022.11.09-21.22.44:239][427]BlueprintLog: New page: Compile BP_Hero_Quinn
+[2022.11.09-21.22.44:365][427]LogBlueprint: Error: [AssetLog] C:\Users\EMI\Documents\GitHub\UE5_03\UE5_03\Content\Characters\BP_Hero_Quinn.uasset: [Compiler] The current value (None) of the ' Weapon Row Name ' pin is invalid: 'Weapon Row Name' in action 'Svr Add Wpn to Inventory' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2022.11.09-21.22.44:465][427]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2022.11.09-21.22.45:651][526]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/BP_Hero_Quinn" FILE="../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Content/Characters/BP_Hero_Quinn.uasset" SILENT=true
+[2022.11.09-21.22.45:709][526]LogSavePackage: Moving output files for package: /Game/Characters/BP_Hero_Quinn
+[2022.11.09-21.22.45:710][526]LogSavePackage: Moving '../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Saved/BP_Hero_QuinnE72ECD08424773211FA0BF95A9925999.tmp' to '../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Content/Characters/BP_Hero_Quinn.uasset'
+[2022.11.09-21.22.45:724][526]AssetCheck: New page: Asset Save: BP_Hero_Quinn
+[2022.11.09-21.22.45:724][526]LogContentValidation: Display: Validating Blueprint /Game/Characters/BP_Hero_Quinn.BP_Hero_Quinn
+[2022.11.09-21.23.20:547][313]BlueprintLog: New page: Compile BP_Hero_Quinn
+[2022.11.09-21.23.20:734][313]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2022.11.09-21.23.21:179][345]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/BP_Hero_Quinn" FILE="../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Content/Characters/BP_Hero_Quinn.uasset" SILENT=true
+[2022.11.09-21.23.21:239][345]LogSavePackage: Moving output files for package: /Game/Characters/BP_Hero_Quinn
+[2022.11.09-21.23.21:239][345]LogSavePackage: Moving '../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Saved/BP_Hero_QuinnCA1F8D2446A285F5438E09AD83881CC5.tmp' to '../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Content/Characters/BP_Hero_Quinn.uasset'
+[2022.11.09-21.23.21:253][345]AssetCheck: New page: Asset Save: BP_Hero_Quinn
+[2022.11.09-21.23.21:253][345]LogContentValidation: Display: Validating Blueprint /Game/Characters/BP_Hero_Quinn.BP_Hero_Quinn
+[2022.11.09-21.24.04:485][192]BlueprintLog: New page: Compile BP_Hero_Quinn
+[2022.11.09-21.24.04:706][192]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2022.11.09-21.24.05:413][239]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/BP_Hero_Quinn" FILE="../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Content/Characters/BP_Hero_Quinn.uasset" SILENT=true
+[2022.11.09-21.24.05:472][239]LogSavePackage: Moving output files for package: /Game/Characters/BP_Hero_Quinn
+[2022.11.09-21.24.05:473][239]LogSavePackage: Moving '../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Saved/BP_Hero_QuinnDE3001FC44DBA95C048067BDDF8E53E7.tmp' to '../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Content/Characters/BP_Hero_Quinn.uasset'
+[2022.11.09-21.24.05:488][239]AssetCheck: New page: Asset Save: BP_Hero_Quinn
+[2022.11.09-21.24.05:488][239]LogContentValidation: Display: Validating Blueprint /Game/Characters/BP_Hero_Quinn.BP_Hero_Quinn
+[2022.11.09-21.24.06:855][393]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2022.11.09-21.24.21:024][808]LogAssetEditorSubsystem: Opening Asset editor for DataTable /Game/Weapons/WeaponInfo_Table.WeaponInfo_Table
+[2022.11.09-21.24.32:153][818]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Weapons/WeaponInfo_Table" FILE="../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Content/Weapons/WeaponInfo_Table.uasset" SILENT=true
+[2022.11.09-21.24.32:155][818]LogSavePackage: Moving output files for package: /Game/Weapons/WeaponInfo_Table
+[2022.11.09-21.24.32:156][818]LogSavePackage: Moving '../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Saved/WeaponInfo_Table477B51BD4A20ECDD9216F7A0F07FDE20.tmp' to '../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Content/Weapons/WeaponInfo_Table.uasset'
+[2022.11.09-21.24.32:168][818]AssetCheck: New page: Asset Save: WeaponInfo_Table
+[2022.11.09-21.24.32:168][818]LogContentValidation: Display: Validating DataTable /Game/Weapons/WeaponInfo_Table.WeaponInfo_Table
+[2022.11.09-21.29.22:827][746]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2022.11.09-21.29.22:829][746]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Map_01' took 0.055
+[2022.11.09-21.29.22:830][746]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/BP_Hero_Quinn] ([2] browsable assets)...
+[2022.11.09-21.29.22:848][746]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Characters/BP_Hero_Quinn.BP_Hero_Quinn]
+[2022.11.09-21.29.22:848][746]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/BP_Hero_Quinn]
+[2022.11.09-21.29.22:913][746]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/BP_Hero_Quinn_Auto3
+[2022.11.09-21.29.22:914][746]LogSavePackage: Moving '../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Saved/BP_Hero_Quinn_Auto317474AA8419EB5034145C093BB5A171F.tmp' to '../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Saved/Autosaves/Game/Characters/BP_Hero_Quinn_Auto3.uasset'
+[2022.11.09-21.29.22:915][746]LogFileHelpers: Auto-saving content packages took 0.086
+[2022.11.09-21.45.25:513][865]BlueprintLog: New page: Compile BP_Hero_Quinn
+[2022.11.09-21.45.25:701][865]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2022.11.09-21.45.26:288][915]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/BP_Hero_Quinn" FILE="../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Content/Characters/BP_Hero_Quinn.uasset" SILENT=true
+[2022.11.09-21.45.26:357][915]LogSavePackage: Moving output files for package: /Game/Characters/BP_Hero_Quinn
+[2022.11.09-21.45.26:358][915]LogSavePackage: Moving '../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Saved/BP_Hero_Quinn03D971C041FA9EE045AD9E989BD8034B.tmp' to '../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Content/Characters/BP_Hero_Quinn.uasset'
+[2022.11.09-21.45.26:372][915]AssetCheck: New page: Asset Save: BP_Hero_Quinn
+[2022.11.09-21.45.26:372][915]LogContentValidation: Display: Validating Blueprint /Game/Characters/BP_Hero_Quinn.BP_Hero_Quinn
+[2022.11.09-21.46.59:504][521]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.11.09-21.50.08:535][854]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2022.11.09-21.50.08:537][854]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Map_01' took 0.056
+[2022.11.09-21.50.08:538][854]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/BP_Hero_Quinn] ([2] browsable assets)...
+[2022.11.09-21.50.08:556][854]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Characters/BP_Hero_Quinn.BP_Hero_Quinn]
+[2022.11.09-21.50.08:556][854]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/BP_Hero_Quinn]
+[2022.11.09-21.50.08:633][854]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/BP_Hero_Quinn_Auto4
+[2022.11.09-21.50.08:634][854]LogSavePackage: Moving '../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Saved/BP_Hero_Quinn_Auto4A502B2554D8F50B956CF47BCE6715998.tmp' to '../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Saved/Autosaves/Game/Characters/BP_Hero_Quinn_Auto4.uasset'
+[2022.11.09-21.50.08:635][854]LogFileHelpers: Auto-saving content packages took 0.097
+[2022.11.09-21.54.51:882][862]BlueprintLog: New page: Compile BP_Hero_Quinn
+[2022.11.09-21.54.52:074][862]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2022.11.09-21.54.52:608][898]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/BP_Hero_Quinn" FILE="../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Content/Characters/BP_Hero_Quinn.uasset" SILENT=true
+[2022.11.09-21.54.52:685][898]LogSavePackage: Moving output files for package: /Game/Characters/BP_Hero_Quinn
+[2022.11.09-21.54.52:686][898]LogSavePackage: Moving '../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Saved/BP_Hero_Quinn16A5C3024291E326422662A3C9B15CEB.tmp' to '../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Content/Characters/BP_Hero_Quinn.uasset'
+[2022.11.09-21.54.52:700][898]AssetCheck: New page: Asset Save: BP_Hero_Quinn
+[2022.11.09-21.54.52:700][898]LogContentValidation: Display: Validating Blueprint /Game/Characters/BP_Hero_Quinn.BP_Hero_Quinn
+[2022.11.09-21.56.10:785][  2]BlueprintLog: New page: Compile BP_Hero_Quinn
+[2022.11.09-21.56.11:025][  2]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2022.11.09-21.56.11:582][ 31]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/BP_Hero_Quinn" FILE="../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Content/Characters/BP_Hero_Quinn.uasset" SILENT=true
+[2022.11.09-21.56.11:661][ 31]LogSavePackage: Moving output files for package: /Game/Characters/BP_Hero_Quinn
+[2022.11.09-21.56.11:661][ 31]LogSavePackage: Moving '../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Saved/BP_Hero_Quinn4379555845F69ABDDD3518BD41C8076F.tmp' to '../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Content/Characters/BP_Hero_Quinn.uasset'
+[2022.11.09-21.56.11:676][ 31]AssetCheck: New page: Asset Save: BP_Hero_Quinn
+[2022.11.09-21.56.11:676][ 31]LogContentValidation: Display: Validating Blueprint /Game/Characters/BP_Hero_Quinn.BP_Hero_Quinn
+[2022.11.09-21.58.07:693][375]BlueprintLog: New page: Compile BP_Hero_Quinn
+[2022.11.09-21.58.07:926][375]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2022.11.09-21.58.08:529][410]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/BP_Hero_Quinn" FILE="../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Content/Characters/BP_Hero_Quinn.uasset" SILENT=true
+[2022.11.09-21.58.08:606][410]LogSavePackage: Moving output files for package: /Game/Characters/BP_Hero_Quinn
+[2022.11.09-21.58.08:607][410]LogSavePackage: Moving '../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Saved/BP_Hero_QuinnDDC0ABBF40A3831E140ABC80C1BDC1BB.tmp' to '../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Content/Characters/BP_Hero_Quinn.uasset'
+[2022.11.09-21.58.08:620][410]AssetCheck: New page: Asset Save: BP_Hero_Quinn
+[2022.11.09-21.58.08:620][410]LogContentValidation: Display: Validating Blueprint /Game/Characters/BP_Hero_Quinn.BP_Hero_Quinn
+[2022.11.09-21.58.10:568][624]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
