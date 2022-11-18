@@ -1,0 +1,1390 @@
+﻿Log file open, 11/18/22 17:12:24
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=16304)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: UE5_03
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-20979098"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.3-20979098+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" C:\Users\EMI\Documents\GitHub\UE5_03\UE5_03\UE5_03.uproject""
+LogCsvProfiler: Display: Metadata set : os="Windows 10 (21H2) [10.0.19044.2251] "
+LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|Intel(R) Core(TM) i5-7400 CPU @ 3.00GHz"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="0ce84277450482270ac8378aa2b3beb8"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 1.968124
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-EC76CF174C0811E6ADA80FA603FC2307
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading HoloLens ini files took 0.04 seconds
+LogConfig: Display: Loading Android ini files took 0.04 seconds
+LogConfig: Display: Loading IOS ini files took 0.04 seconds
+LogConfig: Display: Loading Linux ini files took 0.05 seconds
+LogConfig: Display: Loading Mac ini files took 0.03 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.05 seconds
+LogConfig: Display: Loading Unix ini files took 0.04 seconds
+LogConfig: Display: Loading TVOS ini files took 0.04 seconds
+LogPluginManager: Mounting Engine plugin Bridge
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogConfig: Display: Loading VulkanPC ini files took 0.03 seconds
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin IKRig
+LogConfig: Display: Loading Windows ini files took 0.04 seconds
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin StylusInput
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin GeometryFlow
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin MeshLODToolset
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE5+Release-5.0-CL-20979098
+LogInit: Engine Version: 5.0.3-20979098+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 10 (21H2) [10.0.19044.2251] (), CPU: Intel(R) Core(TM) i5-7400 CPU @ 3.00GHz, GPU: NVIDIA GeForce GTX 1070 Ti
+LogInit: Compiled (64-bit): Jul  7 2022 02:16:06
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2022.11.18-16.12.26:154][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2022.11.18-16.12.26:154][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2022.11.18-16.12.26:154][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2022.11.18-16.12.26:154][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2022.11.18-16.12.26:155][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2022.11.18-16.12.26:155][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2022.11.18-16.12.26:155][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2022.11.18-16.12.26:155][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2022.11.18-16.12.26:155][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2022.11.18-16.12.26:155][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2022.11.18-16.12.26:155][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2022.11.18-16.12.26:155][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2022.11.18-16.12.26:155][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2022.11.18-16.12.26:155][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2022.11.18-16.12.26:155][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2022.11.18-16.12.26:155][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2022.11.18-16.12.26:155][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2022.11.18-16.12.26:155][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2022.11.18-16.12.26:155][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2022.11.18-16.12.26:155][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2022.11.18-16.12.26:155][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2022.11.18-16.12.26:155][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2022.11.18-16.12.26:155][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2022.11.18-16.12.26:155][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2022.11.18-16.12.26:155][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2022.11.18-16.12.26:155][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2022.11.18-16.12.26:156][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.11.18-16.12.26:156][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2022.11.18-16.12.26:156][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.11.18-16.12.26:156][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2022.11.18-16.12.26:156][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2022.11.18-16.12.26:156][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2022.11.18-16.12.26:156][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2022.11.18-16.12.26:156][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2022.11.18-16.12.26:156][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2022.11.18-16.12.26:156][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2022.11.18-16.12.26:156][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2022.11.18-16.12.26:156][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2022.11.18-16.12.26:156][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2022.11.18-16.12.26:156][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2022.11.18-16.12.26:156][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2022.11.18-16.12.26:156][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.11.18-16.12.26:156][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.11.18-16.12.26:156][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2022.11.18-16.12.26:156][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2022.11.18-16.12.26:156][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2022.11.18-16.12.26:156][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2022.11.18-16.12.26:156][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2022.11.18-16.12.26:156][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2022.11.18-16.12.26:156][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2022.11.18-16.12.26:156][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2022.11.18-16.12.26:156][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2022.11.18-16.12.26:156][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2022.11.18-16.12.26:156][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2022.11.18-16.12.26:156][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2022.11.18-16.12.26:156][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2022.11.18-16.12.26:156][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2022.11.18-16.12.26:164][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2022.11.18-16.12.26:164][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2022.11.18-16.12.26:164][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2022.11.18-16.12.26:164][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2022.11.18-16.12.26:164][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2022.11.18-16.12.26:164][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2022.11.18-16.12.26:164][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2022.11.18-16.12.26:164][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2022.11.18-16.12.26:164][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2022.11.18-16.12.26:165][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2022.11.18-16.12.26:165][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2022.11.18-16.12.26:229][  0]LogD3D12RHI: Aftermath initialized
+[2022.11.18-16.12.26:229][  0]LogD3D12RHI: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+[2022.11.18-16.12.26:479][  0]LogD3D12RHI: Found D3D12 adapter 0: NVIDIA GeForce GTX 1070 Ti (Max supported Feature Level 12_1, shader model 6.6)
+[2022.11.18-16.12.26:479][  0]LogD3D12RHI: Adapter has 8079MB of dedicated video memory, 0MB of dedicated system memory, and 8171MB of shared system memory, 2 output[s]
+[2022.11.18-16.12.26:488][  0]LogD3D12RHI: Found D3D12 adapter 1: Microsoft Basic Render Driver (Max supported Feature Level 12_1, shader model 6.2)
+[2022.11.18-16.12.26:489][  0]LogD3D12RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 8171MB of shared system memory, 0 output[s]
+[2022.11.18-16.12.26:491][  0]LogD3D12RHI: Chosen D3D12 Adapter Id = 0
+[2022.11.18-16.12.26:491][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.11.18-16.12.26:492][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2022.11.18-16.12.26:494][  0]LogHAL: Display: Platform has ~ 16 GB [17137774592 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.11.18-16.12.26:494][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2022.11.18-16.12.26:494][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2022.11.18-16.12.26:494][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@0] File [Scalability]
+[2022.11.18-16.12.26:494][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@0] File [Scalability]
+[2022.11.18-16.12.26:494][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@0] File [Scalability]
+[2022.11.18-16.12.26:494][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@0] File [Scalability]
+[2022.11.18-16.12.26:494][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@0] File [Scalability]
+[2022.11.18-16.12.26:494][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@0] File [Scalability]
+[2022.11.18-16.12.26:494][  0]LogConfig: Applying CVar settings from Section [TextureQuality@0] File [Scalability]
+[2022.11.18-16.12.26:494][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@0] File [Scalability]
+[2022.11.18-16.12.26:496][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@0] File [Scalability]
+[2022.11.18-16.12.26:496][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@0] File [Scalability]
+[2022.11.18-16.12.26:496][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:1]] deferred - dummy variable created
+[2022.11.18-16.12.26:496][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.11.18-16.12.26:497][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2022.11.18-16.12.26:497][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/EMI/Documents/GitHub/UE5_03/UE5_03/Saved/Config/WindowsEditor/Editor.ini]
+[2022.11.18-16.12.26:500][  0]LogInit: Computer: EMILKA
+[2022.11.18-16.12.26:500][  0]LogInit: User: EMI
+[2022.11.18-16.12.26:500][  0]LogInit: CPU Page size=4096, Cores=4
+[2022.11.18-16.12.26:500][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.11.18-16.12.26:500][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2022.11.18-16.12.26:500][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2022.11.18-16.12.26:500][  0]LogMemory: Process Physical Memory: 257.15 MB used, 267.72 MB peak
+[2022.11.18-16.12.26:500][  0]LogMemory: Process Virtual Memory: 188.59 MB used, 188.59 MB peak
+[2022.11.18-16.12.26:500][  0]LogMemory: Physical Memory: 5453.93 MB used,  10889.93 MB free, 16343.86 MB total
+[2022.11.18-16.12.26:500][  0]LogMemory: Virtual Memory: 8132.79 MB used,  28211.07 MB free, 36343.86 MB total
+[2022.11.18-16.12.26:500][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2022.11.18-16.12.26:509][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.11.18-16.12.26:563][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2022.11.18-16.12.26:567][  0]LogInit: Using OS detected language (pl-PL).
+[2022.11.18-16.12.26:567][  0]LogInit: Using OS detected locale (pl-PL).
+[2022.11.18-16.12.26:598][  0]LogTextLocalizationManager: No specific localization for 'pl-PL' exists, so 'pl' will be used for the language.
+[2022.11.18-16.12.26:599][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/pl/Editor.locres' could not be opened for reading!
+[2022.11.18-16.12.26:599][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/pl/EditorTutorials.locres' could not be opened for reading!
+[2022.11.18-16.12.26:599][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/pl/Keywords.locres' could not be opened for reading!
+[2022.11.18-16.12.26:599][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/pl/Category.locres' could not be opened for reading!
+[2022.11.18-16.12.26:599][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/pl/ToolTips.locres' could not be opened for reading!
+[2022.11.18-16.12.26:599][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/pl/PropertyNames.locres' could not be opened for reading!
+[2022.11.18-16.12.26:599][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/pl/Engine.locres' could not be opened for reading!
+[2022.11.18-16.12.26:626][  0]LogInit: Setting process to per monitor DPI aware
+[2022.11.18-16.12.26:661][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2022.11.18-16.12.26:662][  0]LogWindowsTextInputMethodSystem:   - Polski (Polska) - (Keyboard).
+[2022.11.18-16.12.26:662][  0]LogWindowsTextInputMethodSystem: Activated input method: Polski (Polska) - (Keyboard).
+[2022.11.18-16.12.26:729][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.11.18-16.12.26:729][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.11.18-16.12.29:506][  0]LogD3D12RHI: InitD3DDevice: -D3DDebug = off -D3D12GPUValidation = off
+[2022.11.18-16.12.29:511][  0]LogD3D12RHI: [Aftermath] Aftermath crash dumping enabled
+[2022.11.18-16.12.29:511][  0]LogD3D12RHI: Emitting draw events for PIX profiling.
+[2022.11.18-16.12.29:603][  0]LogD3D12RHI: [Aftermath] Aftermath enabled and primed
+[2022.11.18-16.12.29:603][  0]LogD3D12RHI: [Aftermath] Aftermath resource tracking enabled
+[2022.11.18-16.12.29:603][  0]LogD3D12RHI: ID3D12Device1 is supported.
+[2022.11.18-16.12.29:603][  0]LogD3D12RHI: ID3D12Device2 is supported.
+[2022.11.18-16.12.29:603][  0]LogD3D12RHI: ID3D12Device3 is supported.
+[2022.11.18-16.12.29:603][  0]LogD3D12RHI: ID3D12Device4 is supported.
+[2022.11.18-16.12.29:603][  0]LogD3D12RHI: ID3D12Device5 is supported.
+[2022.11.18-16.12.29:603][  0]LogD3D12RHI: ID3D12Device6 is supported.
+[2022.11.18-16.12.29:603][  0]LogD3D12RHI: ID3D12Device7 is supported.
+[2022.11.18-16.12.29:603][  0]LogD3D12RHI: D3D12 ray tracing tier 1.0 is supported.
+[2022.11.18-16.12.29:603][  0]LogD3D12RHI: AtomicInt64OnTypedResource is supported
+[2022.11.18-16.12.29:603][  0]LogD3D12RHI: AtomicInt64OnGroupShared is supported
+[2022.11.18-16.12.29:603][  0]LogD3D12RHI: AtomicInt64OnDescriptorHeapResource is supported
+[2022.11.18-16.12.29:603][  0]LogD3D12RHI: Shader Model 6.6 atomic64 is supported
+[2022.11.18-16.12.29:682][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for 3D Queue 0
+[2022.11.18-16.12.29:689][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Copy Queue 0
+[2022.11.18-16.12.29:702][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Compute Queue 0
+[2022.11.18-16.12.29:714][  0]LogD3D12RHI: Display: Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+[2022.11.18-16.12.29:714][  0]LogD3D12RHI: Display: Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+[2022.11.18-16.12.29:783][  0]LogD3D12RHI: Warning: Ray tracing is disabled for NVIDIA cards with the Pascal architecture.
+[2022.11.18-16.12.29:783][  0]LogD3D12RHI:     GPU DeviceId: 0x1b82 (for the marketing name, search the web for "GPU Device Id")
+[2022.11.18-16.12.29:783][  0]LogWindows: Attached monitors:
+[2022.11.18-16.12.29:783][  0]LogWindows:     resolution: 1920x1080, work area: (-1920, 0) -> (0, 1040), device: '\\.\DISPLAY1'
+[2022.11.18-16.12.29:783][  0]LogWindows:     resolution: 1920x1080, work area: (0, 0) -> (1920, 1040), device: '\\.\DISPLAY2' [PRIMARY]
+[2022.11.18-16.12.29:783][  0]LogWindows: Found 2 attached monitors.
+[2022.11.18-16.12.29:783][  0]LogWindows: EnumDisplayDevices:
+[2022.11.18-16.12.29:783][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070 Ti' (P:0 D:1), name: '\\.\DISPLAY1'
+[2022.11.18-16.12.29:783][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070 Ti' (P:1 D:1), name: '\\.\DISPLAY2'
+[2022.11.18-16.12.29:784][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070 Ti' (P:0 D:0), name: '\\.\DISPLAY3'
+[2022.11.18-16.12.29:784][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070 Ti' (P:0 D:0), name: '\\.\DISPLAY4'
+[2022.11.18-16.12.29:784][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2022.11.18-16.12.29:784][  0]LogD3D12RHI:     Adapter Name: NVIDIA GeForce GTX 1070 Ti
+[2022.11.18-16.12.29:784][  0]LogD3D12RHI:   Driver Version: 516.40 (internal:31.0.15.1640, unified:516.40)
+[2022.11.18-16.12.29:784][  0]LogD3D12RHI:      Driver Date: 6-6-2022
+[2022.11.18-16.12.29:784][  0]LogRHI: Texture pool is 4605 MB (70% of 6579 MB)
+[2022.11.18-16.12.29:784][  0]LogD3D12RHI: Async texture creation enabled
+[2022.11.18-16.12.29:784][  0]LogD3D12RHI: RHI has support for 64 bit atomics
+[2022.11.18-16.12.29:827][  0]LogRHI: GeForceNow SDK initialized: 0
+[2022.11.18-16.12.29:842][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="C:/Users/EMI/Documents/GitHub/UE5_03/UE5_03/UE5_03.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/EMI/Documents/GitHub/UE5_03/UE5_03/Intermediate/TurnkeyReport_0.log" -log="C:/Users/EMI/Documents/GitHub/UE5_03/UE5_03/Intermediate/TurnkeyLog_0.log" -project="C:/Users/EMI/Documents/GitHub/UE5_03/UE5_03/UE5_03.uproject"  -platform=all'
+[2022.11.18-16.12.29:843][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/Program Files/Epic Games/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="C:/Users/EMI/Documents/GitHub/UE5_03/UE5_03/UE5_03.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/EMI/Documents/GitHub/UE5_03/UE5_03/Intermediate/TurnkeyReport_0.log" -log="C:/Users/EMI/Documents/GitHub/UE5_03/UE5_03/Intermediate/TurnkeyLog_0.log" -project="C:/Users/EMI/Documents/GitHub/UE5_03/UE5_03/UE5_03.uproject"  -platform=all" ]
+[2022.11.18-16.12.29:898][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2022.11.18-16.12.29:941][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2022.11.18-16.12.29:941][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2022.11.18-16.12.29:954][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.11.18-16.12.29:954][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.11.18-16.12.29:954][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.11.18-16.12.29:954][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.11.18-16.12.29:954][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.11.18-16.12.29:954][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.11.18-16.12.29:954][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.11.18-16.12.29:954][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.11.18-16.12.29:954][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.11.18-16.12.29:954][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.11.18-16.12.29:985][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2022.11.18-16.12.29:985][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2022.11.18-16.12.29:991][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.11.18-16.12.29:991][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.11.18-16.12.29:996][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.11.18-16.12.29:996][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2022.11.18-16.12.29:996][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.11.18-16.12.29:996][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.11.18-16.12.30:003][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2022.11.18-16.12.30:003][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2022.11.18-16.12.30:003][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2022.11.18-16.12.30:008][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.11.18-16.12.30:008][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.11.18-16.12.30:019][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.11.18-16.12.30:019][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2022.11.18-16.12.30:019][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.11.18-16.12.30:019][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.11.18-16.12.30:019][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2022.11.18-16.12.30:092][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.11.18-16.12.30:098][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2022.11.18-16.12.30:098][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2022.11.18-16.12.30:098][  0]LogTargetPlatformManager:   ADPCM
+[2022.11.18-16.12.30:098][  0]LogTargetPlatformManager:   PCM
+[2022.11.18-16.12.30:104][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2022.11.18-16.12.30:104][  0]LogTargetPlatformManager:   BINKA
+[2022.11.18-16.12.30:104][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2022.11.18-16.12.30:104][  0]LogTargetPlatformManager:   OGG
+[2022.11.18-16.12.30:104][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2022.11.18-16.12.30:104][  0]LogTargetPlatformManager:   OPUS
+[2022.11.18-16.12.30:294][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2022.11.18-16.12.30:305][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2022.11.18-16.12.30:305][  0]LogTargetPlatformManager:   SF_METAL
+[2022.11.18-16.12.30:305][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2022.11.18-16.12.30:305][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2022.11.18-16.12.30:305][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2022.11.18-16.12.30:305][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2022.11.18-16.12.30:305][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2022.11.18-16.12.30:305][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2022.11.18-16.12.30:305][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2022.11.18-16.12.30:305][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2022.11.18-16.12.30:305][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2022.11.18-16.12.30:305][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2022.11.18-16.12.30:305][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2022.11.18-16.12.30:305][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2022.11.18-16.12.30:305][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2022.11.18-16.12.30:305][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2022.11.18-16.12.30:312][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2022.11.18-16.12.30:312][  0]LogTargetPlatformManager:   VVM_1_0
+[2022.11.18-16.12.30:312][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2022.11.18-16.12.30:312][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2022.11.18-16.12.30:312][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2022.11.18-16.12.30:312][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2022.11.18-16.12.30:312][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2022.11.18-16.12.30:312][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.11.18-16.12.30:314][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2022.11.18-16.12.30:319][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.11.18-16.12.30:319][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2022.11.18-16.12.30:324][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.11.18-16.12.30:329][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.11.18-16.12.30:329][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2022.11.18-16.12.30:329][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.11.18-16.12.30:329][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2022.11.18-16.12.30:362][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1230 MiB)
+[2022.11.18-16.12.30:362][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.11.18-16.12.30:362][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2022.11.18-16.12.30:376][  0]LogDerivedDataCache: Speed tests for C:/Users/EMI/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2022.11.18-16.12.30:376][  0]LogDerivedDataCache: Display: Performance to C:/Users/EMI/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.12ms. RandomReadSpeed=138.59MBs, RandomWriteSpeed=170.47MBs. Assigned SpeedClass 'Local'
+[2022.11.18-16.12.30:378][  0]LogDerivedDataCache: Using Local data cache path C:/Users/EMI/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.11.18-16.12.30:378][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.11.18-16.12.30:378][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2022.11.18-16.12.30:387][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2022.11.18-16.12.30:387][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2022.11.18-16.12.30:393][  0]LogShaderCompilers: Guid format shader working directory is -15 characters bigger than the processId version (../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Intermediate/Shaders/WorkingDirectory/14032/).
+[2022.11.18-16.12.30:393][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/EMI/AppData/Local/Temp/UnrealShaderWorkingDir/4C5FC38E475C200E757E2B915E853472/'.
+[2022.11.18-16.12.30:394][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.11.18-16.12.30:394][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 3 workers.
+[2022.11.18-16.12.35:929][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 0
+[2022.11.18-16.12.35:929][  0]LogSlate: Using FreeType 2.10.0
+[2022.11.18-16.12.35:944][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.11.18-16.12.36:049][  0]LogAssetRegistry: FAssetRegistry took 0.0272 seconds to start up
+[2022.11.18-16.12.36:057][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2022.11.18-16.12.36:350][  0]LogSerialization: UsePackageTrailer: 'false'
+[2022.11.18-16.12.36:355][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2022.11.18-16.12.36:791][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.11.18-16.12.36:791][  0]LogDeviceProfileManager: Active device profile: [00000B710992F6C0][00000B70F027C800 50] WindowsEditor
+[2022.11.18-16.12.36:791][  0]LogDeviceProfileManager: Profiles: [00000B710992F180][00000B710188C800 50] Windows, [00000B710992F6C0][00000B70F027C800 50] WindowsEditor, [00000B710992D900][00000B70FB7F0000 50] WindowsServer, [00000B710992C780][00000B70FB7CA000 50] WindowsClient, [00000B710992CCC0][00000B7109E10000 50] IOS, [00000B710992C240][00000B7109E15000 50] iPadAir2, [00000B710992FDC0][00000B7109E1A000 50] IPadPro, [00000B710853FDC0][00000B7109E17800 50] iPadAir3, [00000B710992EFC0][00000B7109E1C800 50] iPadAir4, [00000B710992E540][00000B70FB77A000 50] iPadMini4, [00000B710992BEC0][00000B7109E60000 50] iPadMini5, [00000B710992DAC0][00000B7109E65000 50] iPadMini6, [00000B7109EA2F40][00000B7109E6C800 50] iPhone6S, [00000B7109EA32C0][00000B7109E6A000 50] iPhone7, [00000B7109EA3640][00000B7109E67800 50] iPodTouch7, [00000B7109EA1C00][00000B7109E12800 50] iPhone6SPlus, [00000B7109EA1500][00000B7109E70000 50] iPhone7Plus, [00000B7109EA2680][00000B7109E75000 50] iPhoneSE, [00000B7109EA1DC0][00000B7109E77800 50] iPhone8, [00000B7109EA1180][00000B7109E7A000 50] iPhone8Plus, [00000B7109EA08C0][00000B7109E7C800 50] iPhoneX, [00000B7109EA1F80][00000B7109E62800 50] iPhoneXS, [00000B7109EA3B80][00000B7109E80000 50] iPhoneXSMax, [00000B7109EA2A00][00000B7109E85000 50] iPhoneXR, [00000B7109EA01C0][00000B7109E87800 50] iPhone11, [00000B7109EA2140][00000B7109E8A000 50] iPhone11Pro, [00000B7109EA2300][00000B7109E8C800 50] iPhone11ProMax, [00000B7109EA40C0][00000B7109E72800 50] iPhoneSE2, [00000B7109EA1A40][00000B7109E90000 50] iPhone12Mini, [00000B7109EA1340][00000B7109E95000 50] iPhone12, [00000B7109EA39C0][00000B7109E97800 50] iPhone12Pro, [00000B7109EA1880][00000B7109E9A000 50] iPhone12ProMax, [00000B7109EA3F00][00000B7109E9C800 50] iPhone13Mini, [00000B7109EA2D80][00000B7109E82800 50] iPhone13, [00000B7109EA3100][00000B7109EB0000 50] iPhone13Pro, [00000B7109EA0A80][00000B7109EB5000 50] iPhone13ProMax, [00000B7109EA5080][00000B7109EB7800 50] iPadPro105, [00000B7109EA4980][00000B7109EBA000 50] iPadPro129, [00000B7109EA4600][00000B7109EBC800 50] iPadPro97, [00000B7109EA24C0][00000B7109E92800 50] iPadPro2_129, [00000B7109EA4B40][00000B7109EC0000 50] iPad5, [00000B7109EA4EC0][00000B7109EC5000 50] iPad6, [00000B7109EA0540][00000B7109EC7800 50] iPad7, [00000B7109EA3D40][00000B7109ECA000 50] iPad8, [00000B7109EA3800][00000B7109ECC800 50] iPad9, [00000B7109EA6040][00000B7109EB2800 50] iPadPro11, [00000B7109EA5940][00000B7109ED0000 50] iPadPro2_11, [00000B7109EA55C0][00000B7109ED5000 50] iPadPro3_11, [00000B7109EA0C40][00000B7109ED7800 50] iPadPro3_129, [00000B7109EA5B00][00000B7109EDA000 50] iPadPro4_129, [00000B7109EA5240][00000B7109EDC800 50] iPadPro5_129, [00000B7109EA63C0][00000B7109EC2800 50] AppleTV, [00000B7109EA16C0][00000B7109EE0000 50] AppleTV4K, [00000B7109EA4D00][00000B7109EE5000 50] TVOS, [00000B7109EA8DC0][00000B7109EEA000 50] Mac, [00000B7109EA9140][00000B7109EE7800 50] MacEditor, [00000B7109EA8A40][00000B7109EEC800 50] MacClient, [00000B7109EA2BC0][00000B7109ED2800 50] MacServer, [00000B7109EA9300][00000B7109EF2800 50] Linux, [00000B7109EA2840][00000B7109EF0000 50] LinuxEditor, [00000B7109EA7A80][00000B7109EF7800 50] LinuxArm64Editor, [00000B7109EA8880][00000B7109EFA000 50] LinuxArm64, [00000B7109EA0700][00000B7109EFC800 50] LinuxClient, [00000B7109EA0FC0][00000B7109EE2800 50] LinuxArm64Client, [00000B7109EA86C0][00000B7109F00000 50] LinuxServer, [00000B7109EA94C0][00000B7109F05000 50] LinuxArm64Server, [00000B7109EA47C0][00000B7109F07800 50] Android, [00000B7109EA9840][00000B7109F0A000 50] Android_Preview_OpenGL, [00000B7109EA8340][00000B7109F0C800 50] Android_Preview_Vulkan, [00000B7109EA4280][00000B7109EF5000 50] Android_Low, [00000B7109EA9680][00000B7109F10000 50] Android_Mid, [00000B7109EA6AC0][00000B7109F15000 50] Android_High, [00000B7109EA78C0][00000B7109F17800 50] Android_Default, [00000B7109EA9BC0][00000B7109F1A000 50] Android_Adreno4xx, [00000B7109EA7C40][00000B7109F1C800 50] Android_Adreno5xx_Low, [00000B7109EA6200][00000B7109F02800 50] Android_Adreno5xx, [00000B7109EA0000][00000B7109F20000 50] Android_Adreno6xx, [00000B7109EA7000][00000B7109F25000 50] Android_Adreno6xx_Vulkan, [00000B7109EA0380][00000B7109F27800 50] Android_Adreno7xx, [00000B7109EA3480][00000B7109F2A000 50] Android_Adreno7xx_Vulkan, [00000B7109EA6900][00000B7109F2C800 50] Android_Mali_T6xx, [00000B7109EA4440][00000B7109F12800 50] Android_Mali_T7xx, [00000B7109EAAB80][00000B7109F30000 50] Android_Mali_T8xx, [00000B7109EA6E40][00000B7109F35000 50] Android_Mali_G71, [00000B7109EA71C0][00000B7109F37800 50] Android_Mali_G72, [00000B7109EA5400][00000B7109F3A000 50] Android_Mali_G72_Vulkan, [00000B7109EA7700][00000B7109F3C800 50] Android_Mali_G76, [00000B7109EAA800][00000B7109F22800 50] Android_Mali_G76_Vulkan, [00000B7109EA5780][00000B7109F40000 50] Android_Mali_G77, [00000B7109EA6740][00000B7109F45000 50] Android_Mali_G77_Vulkan, [00000B7109EA5E80][00000B7109F47800 50] Android_Mali_G78, [00000B7109EAA9C0][00000B7109F4A000 50] Android_Mali_G78_Vulkan, [00000B7109EA7380][00000B7109F4C800 50] Android_Mali_G710, [00000B7109EAB980][00000B7109F32800 50] Android_Mali_G710_Vulkan, [00000B7109EA0E00][00000B7109F50000 50] Android_Xclipse_920, [00000B7109EAB600][00000B7109F55000 50] Android_Xclipse_920_Vulkan, [00000B7109EAB0C0][00000B7109F57800 50] Android_Vulkan_SM5, [00000B7109EA8500][00000B7109F5A000 50] Android_PowerVR_G6xxx, [00000B7109EABD00][00000B7109F5C800 50] Android_PowerVR_GT7xxx, [00000B7109EA9F40][00000B7109F42800 50] Android_PowerVR_GE8xxx, [00000B7109EA7540][00000B7109F60000 50] Android_PowerVR_GM9xxx, [00000B7109EAB7C0][00000B7109F65000 50] Android_PowerVR_GM9xxx_Vulkan, [00000B7109EAB440][00000B7109F67800 50] Android_TegraK1, [00000B7109EAAF00][00000B7109F6A000 50] Android_Unknown_Vulkan, [00000B7109EAC080][00000B7109F6C800 50] Oculus_Quest, [00000B7109EAC5C0][00000B7109F52800 50] Oculus_Quest2, [00000B7109EAA100][00000B7109F70000 50] HoloLens, 
+[2022.11.18-16.12.36:791][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2022.11.18-16.12.36:804][  0]LogTurnkeySupport: Turnkey Platform: Win64: (Status=Valid, Installed=10.0.19041.0, AutoSDK=, MinAllowed=10.0.00000.0, MaxAllowed=10.9.99999.0, Flags="InstalledSdk_ValidVersionExists")
+[2022.11.18-16.12.36:954][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2022.11.18-16.12.37:260][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.11.18-16.12.37:260][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.11.18-16.12.37:260][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.11.18-16.12.37:260][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.11.18-16.12.37:261][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.11.18-16.12.37:332][  0]LogNetVersion: UE5_03 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 1859032815)
+[2022.11.18-16.12.37:933][  0]LogSlate: Border
+[2022.11.18-16.12.37:933][  0]LogSlate: BreadcrumbButton
+[2022.11.18-16.12.37:933][  0]LogSlate: Default
+[2022.11.18-16.12.37:933][  0]LogSlate: Icons.Save
+[2022.11.18-16.12.37:933][  0]LogSlate: Icons.Toolbar.Settings
+[2022.11.18-16.12.37:933][  0]LogSlate: ListView
+[2022.11.18-16.12.37:933][  0]LogSlate: SoftwareCursor_CardinalCross
+[2022.11.18-16.12.37:933][  0]LogSlate: SoftwareCursor_Grab
+[2022.11.18-16.12.37:933][  0]LogSlate: TableView.DarkRow
+[2022.11.18-16.12.37:933][  0]LogSlate: TableView.Row
+[2022.11.18-16.12.37:933][  0]LogSlate: TreeView
+[2022.11.18-16.12.38:674][  0]SourceControl: Source control is disabled
+[2022.11.18-16.12.38:777][  0]SourceControl: Source control is disabled
+[2022.11.18-16.12.38:777][  0]SourceControl: Source control is disabled
+[2022.11.18-16.12.39:027][  0]LogUObjectArray: 20557 objects as part of root set at end of initial load.
+[2022.11.18-16.12.39:028][  0]LogUObjectAllocator: 5584264 out of 0 bytes used by permanent object pool.
+[2022.11.18-16.12.39:028][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.11.18-16.12.40:259][  0]LogPython: Using Python 3.9.7
+[2022.11.18-16.12.41:480][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 0EC8FED048EB5A5790C2E788F2FA4EFA | Instance: B852BF6C4D3F3B7E351E3392A26D205B (EMILKA-14032).
+[2022.11.18-16.12.41:638][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.11.18-16.12.41:656][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.11.18-16.12.41:881][  0]SourceControl: Source control is disabled
+[2022.11.18-16.12.41:892][  0]SourceControl: Source control is disabled
+[2022.11.18-16.12.41:920][  0]SourceControl: Source control is disabled
+[2022.11.18-16.12.41:935][  0]LogUProjectInfo: Found projects:
+[2022.11.18-16.12.42:847][  0]LogOpenImageDenoise: OIDN starting up
+[2022.11.18-16.12.43:016][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.11.18-16.12.43:058][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.11.18-16.12.43:058][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.11.18-16.12.43:225][  0]LogCollectionManager: Loaded 0 collections in 0.001731 seconds
+[2022.11.18-16.12.43:416][  0]LogFileCache: Scanning file cache for directory 'C:/Users/EMI/Documents/GitHub/UE5_03/UE5_03/Saved/Collections/' took 0.00s
+[2022.11.18-16.12.43:416][  0]LogFileCache: Scanning file cache for directory 'C:/Users/EMI/Documents/GitHub/UE5_03/UE5_03/Content/Developers/EMI/Collections/' took 0.00s
+[2022.11.18-16.12.43:416][  0]LogFileCache: Scanning file cache for directory 'C:/Users/EMI/Documents/GitHub/UE5_03/UE5_03/Content/Collections/' took 0.00s
+[2022.11.18-16.12.43:885][  0]LogEngine: Initializing Engine...
+[2022.11.18-16.12.43:908][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2022.11.18-16.12.43:926][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.001 s
+[2022.11.18-16.12.44:494][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.11.18-16.12.44:499][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.18-16.12.44:527][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.18-16.12.44:600][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.11.18-16.12.44:612][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.11.18-16.12.44:649][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.11.18-16.12.44:654][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.11.18-16.12.44:654][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2022.11.18-16.12.44:658][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.11.18-16.12.44:658][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.11.18-16.12.44:659][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.18-16.12.44:659][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.18-16.12.44:659][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.18-16.12.44:659][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.18-16.12.44:659][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.18-16.12.44:659][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.18-16.12.44:659][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.18-16.12.44:660][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.18-16.12.44:662][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.18-16.12.44:662][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.18-16.12.44:662][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.18-16.12.44:684][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.18-16.12.44:739][  0]LogAudioMixer: Display: Using Audio Hardware Device Głośniki (Realtek(R) Audio)
+[2022.11.18-16.12.44:741][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.18-16.12.44:764][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.18-16.12.44:765][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.18-16.12.44:768][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2022.11.18-16.12.44:768][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2022.11.18-16.12.44:769][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2022.11.18-16.12.44:769][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2022.11.18-16.12.44:769][  0]LogInit: FAudioDevice initialized.
+[2022.11.18-16.12.44:770][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.11.18-16.12.44:770][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.11.18-16.12.44:770][  0]LogInit: Texture streaming: Enabled
+[2022.11.18-16.12.44:822][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.3-20979098+++UE5+Release-5.0
+[2022.11.18-16.12.44:836][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.11.18-16.12.44:877][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2022.11.18-16.12.44:890][  0]LogLiveCoding: Display: Starting LiveCoding
+[2022.11.18-16.12.44:890][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2022.11.18-16.12.46:893][  0]LogLiveCoding: Display: First instance in process group "UE_UE5_03_0xca0dccb4", spawning console
+[2022.11.18-16.12.46:893][  0]LogLiveCoding: Display: Waiting for server
+[2022.11.18-16.12.46:893][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2022.11.18-16.12.46:930][  0]LogInit: Transaction tracking system initialized
+[2022.11.18-16.12.47:066][  0]BlueprintLog: New page: Editor Load
+[2022.11.18-16.12.47:415][  0]LocalizationService: Localization service is disabled
+[2022.11.18-16.12.47:501][  0]TimingProfiler: Initialize
+[2022.11.18-16.12.47:502][  0]TimingProfiler: OnSessionChanged
+[2022.11.18-16.12.47:502][  0]LoadingProfiler: Initialize
+[2022.11.18-16.12.47:503][  0]LoadingProfiler: OnSessionChanged
+[2022.11.18-16.12.47:504][  0]NetworkingProfiler: Initialize
+[2022.11.18-16.12.47:506][  0]NetworkingProfiler: OnSessionChanged
+[2022.11.18-16.12.47:506][  0]MemoryProfiler: Initialize
+[2022.11.18-16.12.47:506][  0]MemoryProfiler: OnSessionChanged
+[2022.11.18-16.12.48:871][  0]LogFileCache: Scanning file cache for directory 'C:/Users/EMI/Documents/GitHub/UE5_03/UE5_03/Content/' took 0.01s
+[2022.11.18-16.12.48:871][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2022.11.18-16.12.48:995][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.11.18-16.12.49:003][  0]SourceControl: Source control is disabled
+[2022.11.18-16.12.49:004][  0]LogUnrealEdMisc: Loading editor; pre map load, took 28.008
+[2022.11.18-16.12.49:006][  0]Cmd: MAP LOAD FILE="../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Content/Maps/Map_01.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.11.18-16.12.49:007][  0]LightingResults: New page: Lighting Build
+[2022.11.18-16.12.49:022][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.11.18-16.12.49:024][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.18-16.12.49:026][  0]MapCheck: New page: Map Check
+[2022.11.18-16.12.49:026][  0]LightingResults: New page: Lighting Build
+[2022.11.18-16.12.49:046][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.18-16.12.49:060][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2022.11.18-16.12.49:240][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Map_01'.
+[2022.11.18-16.12.49:240][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.18-16.12.49:240][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.18-16.12.49:241][  0]LogAIModule: Creating AISystem for world Map_01
+[2022.11.18-16.12.49:268][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.11.18-16.12.49:277][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2022.11.18-16.12.49:278][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.11.18-16.12.49:279][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,391ms to complete.
+[2022.11.18-16.12.49:279][  0]LogFileHelpers: Loading map 'Map_01' took 0.273
+[2022.11.18-16.12.49:317][  0]LogUnrealEdMisc: Total Editor Startup Time, took 28.323
+[2022.11.18-16.12.49:317][  0]LogShaderCompilers: Display: ================================================
+[2022.11.18-16.12.49:317][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.11.18-16.12.49:317][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2022.11.18-16.12.49:318][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2022.11.18-16.12.49:318][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2022.11.18-16.12.49:318][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.11.18-16.12.49:318][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2022.11.18-16.12.49:318][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2022.11.18-16.12.49:318][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2022.11.18-16.12.49:318][  0]LogShaderCompilers: Display: ================================================
+[2022.11.18-16.12.49:529][  0]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2022.11.18-16.12.49:750][  0]LogUObjectGlobals: Warning: Failed to find object 'Class None.Physics'
+[2022.11.18-16.12.50:320][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2022.11.18-16.12.50:347][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.18-16.12.50:356][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.18-16.12.50:362][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.18-16.12.50:369][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.18-16.12.50:566][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2022.11.18-16.12.50:566][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.11.18-16.12.50:574][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2022.11.18-16.12.50:574][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.11.18-16.12.50:581][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2022.11.18-16.12.50:582][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.11.18-16.12.50:588][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2022.11.18-16.12.50:588][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.11.18-16.12.50:603][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2022.11.18-16.12.50:603][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.11.18-16.12.50:610][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2022.11.18-16.12.50:610][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.11.18-16.12.50:616][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2022.11.18-16.12.50:616][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.11.18-16.12.50:623][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2022.11.18-16.12.50:623][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.11.18-16.12.50:629][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2022.11.18-16.12.50:629][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.11.18-16.12.50:635][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2022.11.18-16.12.50:635][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.11.18-16.12.50:636][  0]LogFeaturePack: Error: Error in Feature pack C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack. Failed to parse manifest: Invalid Json Token. Line: 43 Ch: 4
+[2022.11.18-16.12.50:986][  0]LogSlate: Took 0.005133 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.11.18-16.12.50:995][  0]LogSlate: Took 0.004835 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.11.18-16.12.51:002][  0]LogSlate: Took 0.006468 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.11.18-16.12.51:034][  0]LogViewport: Scene viewport resized to 1526x902, mode Windowed.
+[2022.11.18-16.12.51:317][  0]LogStall: Startup...
+[2022.11.18-16.12.51:319][  0]LogStall: Startup complete.
+[2022.11.18-16.12.51:350][  0]LogLoad: (Engine Initialization) Total time: 30.36 seconds
+[2022.11.18-16.12.51:350][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.11.18-16.12.51:395][  0]LogAssetRegistry: Asset discovery search completed in 15.3477 seconds
+[2022.11.18-16.12.51:428][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2022.11.18-16.12.51:465][  0]LogContentStreaming: Texture pool size now 400 MB
+[2022.11.18-16.12.51:510][  0]LogSlate: Took 0.004712 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.11.18-16.14.33:944][950]LogDerivedDataCache: C:/Users/EMI/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:03.409 and deleted 0 file(s) with total size 0 MiB.
+[2022.11.18-16.21.00:243][136]LogSlate: Took 0.006092 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.11.18-16.21.00:255][136]LogSlate: Took 0.005484 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.11.18-16.21.04:879][275]LogLinker: Warning: [AssetLog] C:\Users\EMI\Documents\GitHub\UE5_03\UE5_03\Content\Characters\Heroes\Mannequin\Animations\Locomotion\Pistol\MF_Pistol_Idle_ADS.uasset: Failed to load '/Game/Characters/Heroes/Mannequin/Animations/AnimModifiers/FootFXAnimModifier': Can't find file.
+[2022.11.18-16.21.04:880][275]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Characters/Heroes/Mannequin/Animations/AnimModifiers/FootFXAnimModifier'
+[2022.11.18-16.21.05:095][275]LogLinker: Warning: [AssetLog] C:\Users\EMI\Documents\GitHub\UE5_03\UE5_03\Content\Characters\Heroes\Mannequin\Animations\Locomotion\Pistol\MF_Pistol_Jog_Bwd.uasset: Failed to load '/AnimationLocomotionLibrary/AnimModifiers/SyncMarkerAnimModifier': Can't find file.
+[2022.11.18-16.21.05:095][275]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /AnimationLocomotionLibrary/AnimModifiers/SyncMarkerAnimModifier'
+[2022.11.18-16.21.05:096][275]LogLinker: Warning: [AssetLog] C:\Users\EMI\Documents\GitHub\UE5_03\UE5_03\Content\Characters\Heroes\Mannequin\Animations\Locomotion\Pistol\MF_Pistol_Jog_Bwd.uasset: Failed to load '/Game/Characters/Heroes/Mannequin/Animations/AnimModifiers/FootstepEffectTagModifier': Can't find file.
+[2022.11.18-16.21.05:096][275]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Characters/Heroes/Mannequin/Animations/AnimModifiers/FootstepEffectTagModifier'
+[2022.11.18-16.21.05:096][275]LogLinker: Warning: [AssetLog] C:\Users\EMI\Documents\GitHub\UE5_03\UE5_03\Content\Characters\Heroes\Mannequin\Animations\Locomotion\Pistol\MF_Pistol_Jog_Bwd.uasset: Failed to load '/Game/Effects/AnimationNotifies/AN_FootPlant_Left': Can't find file.
+[2022.11.18-16.21.05:096][275]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Effects/AnimationNotifies/AN_FootPlant_Left'
+[2022.11.18-16.21.05:096][275]LogLinker: Warning: [AssetLog] C:\Users\EMI\Documents\GitHub\UE5_03\UE5_03\Content\Characters\Heroes\Mannequin\Animations\Locomotion\Pistol\MF_Pistol_Jog_Bwd.uasset: Failed to load '/Game/Effects/AnimationNotifies/AN_FootPlant_Right': Can't find file.
+[2022.11.18-16.21.05:096][275]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Effects/AnimationNotifies/AN_FootPlant_Right'
+[2022.11.18-16.21.05:096][275]LogLinker: Warning: VerifyImport: Failed to find script package for import object 'Package /Script/LyraGame'
+[2022.11.18-16.21.05:434][275]LogLinker: Warning: [AssetLog] C:\Users\EMI\Documents\GitHub\UE5_03\UE5_03\Content\Characters\Heroes\Mannequin\Meshes\SKM_Quinn.uasset: Failed to load '/Game/Characters/Heroes/Mannequin/Rig/ABP_Quinn_PostProcess': Can't find file.
+[2022.11.18-16.21.05:434][275]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Characters/Heroes/Mannequin/Rig/ABP_Quinn_PostProcess'
+[2022.11.18-16.21.05:590][275]LogLinker: Warning: [AssetLog] C:\Users\EMI\Documents\GitHub\UE5_03\UE5_03\Content\Characters\Heroes\Mannequin\Materials\M_Mannequin.uasset: Failed to load '/Game/PhysicsMaterials/PM_Character': Can't find file.
+[2022.11.18-16.21.05:590][275]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/PhysicsMaterials/PM_Character'
+[2022.11.18-16.21.05:779][275]LogLinker: Warning: [AssetLog] C:\Users\EMI\Documents\GitHub\UE5_03\UE5_03\Content\Characters\Heroes\Mannequin\Meshes\SKM_Quinn.uasset: Failed to load '/Game/Characters/Heroes/Mannequin/Rig/PA_Mannequin': Can't find file.
+[2022.11.18-16.21.05:779][275]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Characters/Heroes/Mannequin/Rig/PA_Mannequin'
+[2022.11.18-16.21.05:789][275]LogProperty: Error: FStructProperty::Serialize Loading: Property 'StructProperty /Game/Framework/BP_Shooter_Playerstate.BP_Shooter_Playerstate_C:S_PlayerProfile'. Unknown structure.
+[2022.11.18-16.21.05:789][275]LogClass: Warning: Property S_PlayerProfile of S_PlayerProfile has a struct type mismatch (tag STRUCT_REINST_S_PlayerProfile_99 != prop FallbackStruct) in package:  /Game/Framework/BP_Shooter_Playerstate. If that struct got renamed, add an entry to ActiveStructRedirects.
+[2022.11.18-16.21.06:118][275]LogLinker: Warning: [AssetLog] C:\Users\EMI\Documents\GitHub\UE5_03\UE5_03\Content\Characters\Heroes\Mannequin\Meshes\SKM_Manny.uasset: Failed to load '/Game/Characters/Heroes/Mannequin/Rig/ABP_Manny_PostProcess': Can't find file.
+[2022.11.18-16.21.06:118][275]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Characters/Heroes/Mannequin/Rig/ABP_Manny_PostProcess'
+[2022.11.18-16.21.07:481][275]LogClass: Warning: Property S_PlayerProfile of S_PlayerProfile has a struct type mismatch (tag FallbackStruct != prop S_PlayerProfile) in package:  FObjectReader. If that struct got renamed, add an entry to ActiveStructRedirects.
+[2022.11.18-16.21.10:399][275]LogStaticMesh: StaticMesh /Game/MilitaryWeapSilver/FX/Meshes/St_Sphere_01.St_Sphere_01 should be resaved to improve async compilation performance.
+[2022.11.18-16.21.10:419][275]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/MilitaryWeapSilver/FX/Meshes/St_Sphere_01) ...
+[2022.11.18-16.21.10:608][275]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Pistol/Cues/PistolA_Fire_Cue.PistolA_Fire_Cue:SoundCueGraph_43.EdGraphNode_Comment_1' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2022.11.18-16.21.10:608][275]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Pistol/Cues/PistolA_Fire_Cue.PistolA_Fire_Cue:SoundCueGraph_43.EdGraphNode_Comment_3' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2022.11.18-16.21.10:608][275]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Pistol/Cues/PistolA_Fire_Cue.PistolA_Fire_Cue:SoundCueGraph_43.SoundCueGraphNode_206' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2022.11.18-16.21.10:608][275]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Pistol/Cues/PistolA_Fire_Cue.PistolA_Fire_Cue:SoundCueGraph_43.SoundCueGraphNode_207' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2022.11.18-16.21.10:608][275]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Pistol/Cues/PistolA_Fire_Cue.PistolA_Fire_Cue:SoundCueGraph_43.SoundCueGraphNode_208' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2022.11.18-16.21.10:608][275]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Pistol/Cues/PistolA_Fire_Cue.PistolA_Fire_Cue:SoundCueGraph_43.SoundCueGraphNode_209' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2022.11.18-16.21.10:608][275]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Pistol/Cues/PistolA_Fire_Cue.PistolA_Fire_Cue:SoundCueGraph_43.SoundCueGraphNode_210' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2022.11.18-16.21.10:608][275]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Pistol/Cues/PistolA_Fire_Cue.PistolA_Fire_Cue:SoundCueGraph_43.SoundCueGraphNode_211' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2022.11.18-16.21.10:608][275]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Pistol/Cues/PistolA_Fire_Cue.PistolA_Fire_Cue:SoundCueGraph_43.SoundCueGraphNode_212' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2022.11.18-16.21.10:608][275]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Pistol/Cues/PistolA_Fire_Cue.PistolA_Fire_Cue:SoundCueGraph_43.SoundCueGraphNode_229' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2022.11.18-16.21.10:608][275]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Pistol/Cues/PistolA_Fire_Cue.PistolA_Fire_Cue:SoundCueGraph_43.SoundCueGraphNode_230' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2022.11.18-16.21.10:608][275]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Pistol/Cues/PistolA_Fire_Cue.PistolA_Fire_Cue:SoundCueGraph_43.SoundCueGraphNode_231' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2022.11.18-16.21.10:608][275]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Pistol/Cues/PistolA_Fire_Cue.PistolA_Fire_Cue:SoundCueGraph_43.SoundCueGraphNode_232' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2022.11.18-16.21.10:608][275]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Pistol/Cues/PistolA_Fire_Cue.PistolA_Fire_Cue:SoundCueGraph_43.SoundCueGraphNode_233' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2022.11.18-16.21.10:608][275]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Pistol/Cues/PistolA_Fire_Cue.PistolA_Fire_Cue:SoundCueGraph_43.SoundCueGraphNode_234' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2022.11.18-16.21.10:608][275]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Pistol/Cues/PistolA_Fire_Cue.PistolA_Fire_Cue:SoundCueGraph_43.SoundCueGraphNode_235' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2022.11.18-16.21.10:608][275]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Pistol/Cues/PistolA_Fire_Cue.PistolA_Fire_Cue:SoundCueGraph_43.SoundCueGraphNode_3' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2022.11.18-16.21.10:608][275]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Pistol/Cues/PistolA_Fire_Cue.PistolA_Fire_Cue:SoundCueGraph_43.SoundCueGraphNode_90' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2022.11.18-16.21.10:608][275]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Pistol/Cues/PistolA_Fire_Cue.PistolA_Fire_Cue:SoundCueGraph_43.SoundCueGraphNode_Root_43' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2022.11.18-16.21.10:688][275]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Rifle/Cues/RifleA_Fire_Cue.RifleA_Fire_Cue:SoundCueGraph_11.EdGraphNode_Comment_1' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2022.11.18-16.21.10:688][275]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Rifle/Cues/RifleA_Fire_Cue.RifleA_Fire_Cue:SoundCueGraph_11.EdGraphNode_Comment_3' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2022.11.18-16.21.10:688][275]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Rifle/Cues/RifleA_Fire_Cue.RifleA_Fire_Cue:SoundCueGraph_11.SoundCueGraphNode_3' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2022.11.18-16.21.10:688][275]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Rifle/Cues/RifleA_Fire_Cue.RifleA_Fire_Cue:SoundCueGraph_11.SoundCueGraphNode_80' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2022.11.18-16.21.10:689][275]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Rifle/Cues/RifleA_Fire_Cue.RifleA_Fire_Cue:SoundCueGraph_11.SoundCueGraphNode_81' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2022.11.18-16.21.10:689][275]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Rifle/Cues/RifleA_Fire_Cue.RifleA_Fire_Cue:SoundCueGraph_11.SoundCueGraphNode_82' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2022.11.18-16.21.10:689][275]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Rifle/Cues/RifleA_Fire_Cue.RifleA_Fire_Cue:SoundCueGraph_11.SoundCueGraphNode_83' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2022.11.18-16.21.10:689][275]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Rifle/Cues/RifleA_Fire_Cue.RifleA_Fire_Cue:SoundCueGraph_11.SoundCueGraphNode_84' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2022.11.18-16.21.10:689][275]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Rifle/Cues/RifleA_Fire_Cue.RifleA_Fire_Cue:SoundCueGraph_11.SoundCueGraphNode_85' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2022.11.18-16.21.10:689][275]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Rifle/Cues/RifleA_Fire_Cue.RifleA_Fire_Cue:SoundCueGraph_11.SoundCueGraphNode_86' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2022.11.18-16.21.10:689][275]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Rifle/Cues/RifleA_Fire_Cue.RifleA_Fire_Cue:SoundCueGraph_11.SoundCueGraphNode_87' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2022.11.18-16.21.10:689][275]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Rifle/Cues/RifleA_Fire_Cue.RifleA_Fire_Cue:SoundCueGraph_11.SoundCueGraphNode_88' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2022.11.18-16.21.10:689][275]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Rifle/Cues/RifleA_Fire_Cue.RifleA_Fire_Cue:SoundCueGraph_11.SoundCueGraphNode_89' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2022.11.18-16.21.10:689][275]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Rifle/Cues/RifleA_Fire_Cue.RifleA_Fire_Cue:SoundCueGraph_11.SoundCueGraphNode_90' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2022.11.18-16.21.10:689][275]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Rifle/Cues/RifleA_Fire_Cue.RifleA_Fire_Cue:SoundCueGraph_11.SoundCueGraphNode_91' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2022.11.18-16.21.10:689][275]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Rifle/Cues/RifleA_Fire_Cue.RifleA_Fire_Cue:SoundCueGraph_11.SoundCueGraphNode_92' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2022.11.18-16.21.10:689][275]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Rifle/Cues/RifleA_Fire_Cue.RifleA_Fire_Cue:SoundCueGraph_11.SoundCueGraphNode_93' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2022.11.18-16.21.10:689][275]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Rifle/Cues/RifleA_Fire_Cue.RifleA_Fire_Cue:SoundCueGraph_11.SoundCueGraphNode_94' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2022.11.18-16.21.10:689][275]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Rifle/Cues/RifleA_Fire_Cue.RifleA_Fire_Cue:SoundCueGraph_11.SoundCueGraphNode_Root_11' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2022.11.18-16.21.10:748][275]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Shotgun/Cues/ShotgunA_Fire_Cue.ShotgunA_Fire_Cue:SoundCueGraph_59.EdGraphNode_Comment_1' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2022.11.18-16.21.10:748][275]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Shotgun/Cues/ShotgunA_Fire_Cue.ShotgunA_Fire_Cue:SoundCueGraph_59.EdGraphNode_Comment_3' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2022.11.18-16.21.10:748][275]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Shotgun/Cues/ShotgunA_Fire_Cue.ShotgunA_Fire_Cue:SoundCueGraph_59.SoundCueGraphNode_278' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2022.11.18-16.21.10:748][275]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Shotgun/Cues/ShotgunA_Fire_Cue.ShotgunA_Fire_Cue:SoundCueGraph_59.SoundCueGraphNode_279' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2022.11.18-16.21.10:748][275]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Shotgun/Cues/ShotgunA_Fire_Cue.ShotgunA_Fire_Cue:SoundCueGraph_59.SoundCueGraphNode_280' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2022.11.18-16.21.10:748][275]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Shotgun/Cues/ShotgunA_Fire_Cue.ShotgunA_Fire_Cue:SoundCueGraph_59.SoundCueGraphNode_281' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2022.11.18-16.21.10:748][275]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Shotgun/Cues/ShotgunA_Fire_Cue.ShotgunA_Fire_Cue:SoundCueGraph_59.SoundCueGraphNode_282' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2022.11.18-16.21.10:748][275]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Shotgun/Cues/ShotgunA_Fire_Cue.ShotgunA_Fire_Cue:SoundCueGraph_59.SoundCueGraphNode_283' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2022.11.18-16.21.10:748][275]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Shotgun/Cues/ShotgunA_Fire_Cue.ShotgunA_Fire_Cue:SoundCueGraph_59.SoundCueGraphNode_284' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2022.11.18-16.21.10:748][275]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Shotgun/Cues/ShotgunA_Fire_Cue.ShotgunA_Fire_Cue:SoundCueGraph_59.SoundCueGraphNode_285' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2022.11.18-16.21.10:748][275]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Shotgun/Cues/ShotgunA_Fire_Cue.ShotgunA_Fire_Cue:SoundCueGraph_59.SoundCueGraphNode_286' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2022.11.18-16.21.10:748][275]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Shotgun/Cues/ShotgunA_Fire_Cue.ShotgunA_Fire_Cue:SoundCueGraph_59.SoundCueGraphNode_287' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2022.11.18-16.21.10:748][275]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Shotgun/Cues/ShotgunA_Fire_Cue.ShotgunA_Fire_Cue:SoundCueGraph_59.SoundCueGraphNode_3' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2022.11.18-16.21.10:748][275]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Shotgun/Cues/ShotgunA_Fire_Cue.ShotgunA_Fire_Cue:SoundCueGraph_59.SoundCueGraphNode_90' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2022.11.18-16.21.10:748][275]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Shotgun/Cues/ShotgunA_Fire_Cue.ShotgunA_Fire_Cue:SoundCueGraph_59.SoundCueGraphNode_Root_59' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2022.11.18-16.21.10:802][275]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Widgets/WB_IngameHUD.WB_IngameHUD
+[2022.11.18-16.21.10:803][275]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.18-16.21.10:811][275]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.18-16.21.10:820][275]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
+[2022.11.18-16.21.14:723][275]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' exceeded budget of 2.000000s, reporting...
+[2022.11.18-16.21.14:723][275]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' report submitted, and took 0.049772s
+[2022.11.18-16.21.14:723][275]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.11.18-16.21.14:724][275]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.11.18-16.21.14:853][275]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' complete in 0.004938s (0.192114s overbudget)
+[2022.11.18-16.21.15:315][275]LogSlate: Took 0.005804 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.11.18-16.21.15:328][275]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find SlateColor 'Foreground'.'
+[2022.11.18-16.21.25:070][402]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Widgets/WB_MainMenu.WB_MainMenu
+[2022.11.18-16.21.25:071][402]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.18-16.21.25:077][402]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.18-16.21.25:642][402]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.11.18-16.21.25:642][402]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.11.18-16.22.03:541][239]BlueprintLog: New page: Compile WB_MainMenu
+[2022.11.18-16.22.03:663][239]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2022.11.18-16.22.04:231][286]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/WB_MainMenu" FILE="../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Content/Widgets/WB_MainMenu.uasset" SILENT=true
+[2022.11.18-16.22.04:242][286]LogPackageLocalizationCache: Processed 30 localized package path(s) for 1 prioritized culture(s) in 0.009858 seconds
+[2022.11.18-16.22.04:263][286]LogSavePackage: Moving output files for package: /Game/Widgets/WB_MainMenu
+[2022.11.18-16.22.04:264][286]LogSavePackage: Moving '../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Saved/WB_MainMenu03B7C3E248F6A9AB5392EB8B9A413D93.tmp' to '../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Content/Widgets/WB_MainMenu.uasset'
+[2022.11.18-16.22.04:281][286]AssetCheck: New page: Asset Save: WB_MainMenu
+[2022.11.18-16.22.04:281][286]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widgets/WB_MainMenu.WB_MainMenu
+[2022.11.18-16.22.08:977][813]LogSkinnedMeshComp: Warning: GetSocketInfoByName(weapon_r): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Hero_Base_C /Engine/Transient.World_8:PersistentLevel.BP_Hero_Base_C_0)
+[2022.11.18-16.22.08:978][813]LogSkinnedMeshComp: Warning: GetSocketInfoByName(weapon_r): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Hero_Base_C /Engine/Transient.World_8:PersistentLevel.BP_Hero_Base_C_0)
+[2022.11.18-16.22.08:978][813]LogSkinnedMeshComp: Warning: GetSocketInfoByName(weapon_r): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Hero_Base_C /Engine/Transient.World_8:PersistentLevel.BP_Hero_Base_C_0)
+[2022.11.18-16.22.08:978][813]LogSkinnedMeshComp: Warning: GetSocketInfoByName(weapon_r): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Hero_Base_C /Engine/Transient.World_8:PersistentLevel.BP_Hero_Base_C_0)
+[2022.11.18-16.22.08:978][813]LogSkinnedMeshComp: Warning: GetSocketInfoByName(weapon_r): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Hero_Base_C /Engine/Transient.World_8:PersistentLevel.BP_Hero_Base_C_0)
+[2022.11.18-16.22.08:978][813]LogSkinnedMeshComp: Warning: GetSocketInfoByName(weapon_r): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Hero_Base_C /Engine/Transient.World_8:PersistentLevel.BP_Hero_Base_C_0)
+[2022.11.18-16.22.19:335][330]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Framework/BP_SHooter_Gameinstance.BP_SHooter_Gameinstance
+[2022.11.18-16.22.19:337][330]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.18-16.22.56:089][ 85]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/SavedData/S_PlayerProfile.S_PlayerProfile
+[2022.11.18-16.23.08:994][601]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.11.18-16.23.08:994][601]LogEditorClassViewer: Warning: Class /Game/Characters/Heroes/Mannequin/Animations/ABP_Mannequin_Base.ABP_Mannequin_Base_C has parent /Script/LyraGame.LyraAnimInstance, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.11.18-16.23.08:994][601]LogEditorClassViewer: Warning: Class /Game/Characters/Heroes/Mannequin/Animations/Locomotion/Unarmed/ABP_UnarmedAnimLayers_Feminine.ABP_UnarmedAnimLayers_Feminine_C has parent /Game/Characters/Heroes/Mannequin/Animations/LinkedLayers/ABP_ItemAnimLayersBase.ABP_ItemAnimLayersBase_C, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.11.18-16.23.08:994][601]LogEditorClassViewer: Warning: Class /Game/Characters/Heroes/Mannequin/Animations/Locomotion/Unarmed/ABP_UnarmedAnimLayers.ABP_UnarmedAnimLayers_C has parent /Game/Characters/Heroes/Mannequin/Animations/LinkedLayers/ABP_ItemAnimLayersBase.ABP_ItemAnimLayersBase_C, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.11.18-16.23.08:994][601]LogEditorClassViewer: Warning: Class /Game/Characters/Heroes/Mannequin/Animations/Locomotion/Rifle/ABP_RifleAnimLayers_Feminine.ABP_RifleAnimLayers_Feminine_C has parent /Game/Characters/Heroes/Mannequin/Animations/LinkedLayers/ABP_ItemAnimLayersBase.ABP_ItemAnimLayersBase_C, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.11.18-16.23.08:994][601]LogEditorClassViewer: Warning: Class /Game/Characters/Heroes/Mannequin/Animations/Locomotion/Rifle/ABP_RifleAnimLayers.ABP_RifleAnimLayers_C has parent /Game/Characters/Heroes/Mannequin/Animations/LinkedLayers/ABP_ItemAnimLayersBase.ABP_ItemAnimLayersBase_C, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.11.18-16.23.08:994][601]LogEditorClassViewer: Warning: Class /Game/Characters/Heroes/Mannequin/Animations/Locomotion/Pistol/ABP_PistolAnimLayers_Feminine.ABP_PistolAnimLayers_Feminine_C has parent /Game/Characters/Heroes/Mannequin/Animations/LinkedLayers/ABP_ItemAnimLayersBase.ABP_ItemAnimLayersBase_C, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.11.18-16.23.08:994][601]LogEditorClassViewer: Warning: Class /Game/Characters/Heroes/Mannequin/Animations/Locomotion/Pistol/ABP_PistolAnimLayers.ABP_PistolAnimLayers_C has parent /Game/Characters/Heroes/Mannequin/Animations/LinkedLayers/ABP_ItemAnimLayersBase.ABP_ItemAnimLayersBase_C, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.11.18-16.23.23:660][287]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SavedData/S_PlayerProfile" FILE="../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Content/SavedData/S_PlayerProfile.uasset" SILENT=true
+[2022.11.18-16.23.23:662][287]LogSavePackage: Moving output files for package: /Game/SavedData/S_PlayerProfile
+[2022.11.18-16.23.23:663][287]LogSavePackage: Moving '../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Saved/S_PlayerProfileF8B1B28F4443D9A50490D3BCACAF99C7.tmp' to '../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Content/SavedData/S_PlayerProfile.uasset'
+[2022.11.18-16.23.23:678][287]AssetCheck: New page: Asset Save: S_PlayerProfile
+[2022.11.18-16.23.23:678][287]LogContentValidation: Display: Validating UserDefinedStruct /Game/SavedData/S_PlayerProfile.S_PlayerProfile
+[2022.11.18-16.23.27:995][794]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SavedData/S_PlayerProfile" FILE="../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Content/SavedData/S_PlayerProfile.uasset" SILENT=true
+[2022.11.18-16.23.27:997][794]LogSavePackage: Moving output files for package: /Game/SavedData/S_PlayerProfile
+[2022.11.18-16.23.27:998][794]LogSavePackage: Moving '../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Saved/S_PlayerProfile091CCEC644157D9466445CB5FC34495C.tmp' to '../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Content/SavedData/S_PlayerProfile.uasset'
+[2022.11.18-16.23.28:012][794]AssetCheck: New page: Asset Save: S_PlayerProfile
+[2022.11.18-16.23.28:012][794]LogContentValidation: Display: Validating UserDefinedStruct /Game/SavedData/S_PlayerProfile.S_PlayerProfile
+[2022.11.18-16.23.31:255][  3]BlueprintLog: New page: Compile BP_SHooter_Gameinstance
+[2022.11.18-16.23.31:374][  3]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2022.11.18-16.23.32:110][ 67]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Framework/BP_SHooter_Gameinstance" FILE="../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Content/Framework/BP_SHooter_Gameinstance.uasset" SILENT=true
+[2022.11.18-16.23.32:149][ 67]LogSavePackage: Moving output files for package: /Game/Framework/BP_SHooter_Gameinstance
+[2022.11.18-16.23.32:150][ 67]LogSavePackage: Moving '../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Saved/BP_SHooter_GameinstanceCDEAAC8E420F8890048D23BF692BA941.tmp' to '../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Content/Framework/BP_SHooter_Gameinstance.uasset'
+[2022.11.18-16.23.32:165][ 67]AssetCheck: New page: Asset Save: BP_SHooter_Gameinstance
+[2022.11.18-16.23.32:165][ 67]LogContentValidation: Display: Validating Blueprint /Game/Framework/BP_SHooter_Gameinstance.BP_SHooter_Gameinstance
+[2022.11.18-16.23.33:374][190]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2022.11.18-16.23.33:374][190]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.18-16.23.34:287][276]BlueprintLog: New page: Compile WB_MainMenu
+[2022.11.18-16.23.34:352][276]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2022.11.18-16.23.35:064][340]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/WB_MainMenu" FILE="../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Content/Widgets/WB_MainMenu.uasset" SILENT=true
+[2022.11.18-16.23.35:080][340]LogSavePackage: Moving output files for package: /Game/Widgets/WB_MainMenu
+[2022.11.18-16.23.35:082][340]LogSavePackage: Moving '../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Saved/WB_MainMenu2BC56FBA49EBCAE2D8AB4EBE06C81EC9.tmp' to '../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Content/Widgets/WB_MainMenu.uasset'
+[2022.11.18-16.23.35:096][340]AssetCheck: New page: Asset Save: WB_MainMenu
+[2022.11.18-16.23.35:096][340]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widgets/WB_MainMenu.WB_MainMenu
+[2022.11.18-16.23.36:295][475]BlueprintLog: New page: Compile WB_IngameHUD
+[2022.11.18-16.23.36:386][475]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2022.11.18-16.23.36:982][531]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/WB_IngameHUD" FILE="../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Content/Widgets/WB_IngameHUD.uasset" SILENT=true
+[2022.11.18-16.23.37:027][531]LogSavePackage: Moving output files for package: /Game/Widgets/WB_IngameHUD
+[2022.11.18-16.23.37:028][531]LogSavePackage: Moving '../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Saved/WB_IngameHUD0D9F1167452C69F119C7259B5A501097.tmp' to '../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Content/Widgets/WB_IngameHUD.uasset'
+[2022.11.18-16.23.37:042][531]AssetCheck: New page: Asset Save: WB_IngameHUD
+[2022.11.18-16.23.37:042][531]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widgets/WB_IngameHUD.WB_IngameHUD
+[2022.11.18-16.23.42:306][846]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/SavedData/SG_PlayerProfile.SG_PlayerProfile
+[2022.11.18-16.23.42:307][846]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.18-16.23.43:652][950]BlueprintLog: New page: Compile SG_PlayerProfile
+[2022.11.18-16.23.43:720][950]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2022.11.18-16.23.44:444][ 25]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SavedData/SG_PlayerProfile" FILE="../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Content/SavedData/SG_PlayerProfile.uasset" SILENT=true
+[2022.11.18-16.23.44:446][ 25]LogSavePackage: Moving output files for package: /Game/SavedData/SG_PlayerProfile
+[2022.11.18-16.23.44:447][ 25]LogSavePackage: Moving '../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Saved/SG_PlayerProfile97664D0F44971F7E5065E59763AE1884.tmp' to '../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Content/SavedData/SG_PlayerProfile.uasset'
+[2022.11.18-16.23.44:462][ 25]AssetCheck: New page: Asset Save: SG_PlayerProfile
+[2022.11.18-16.23.44:462][ 25]LogContentValidation: Display: Validating Blueprint /Game/SavedData/SG_PlayerProfile.SG_PlayerProfile
+[2022.11.18-16.23.59:387][676]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Framework/BP_SHooter_Gameinstance.BP_SHooter_Gameinstance
+[2022.11.18-16.23.59:387][676]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.18-16.24.31:729][749]BlueprintLog: New page: Compile BP_SHooter_Gameinstance
+[2022.11.18-16.24.31:850][749]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2022.11.18-16.24.32:443][797]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Framework/BP_SHooter_Gameinstance" FILE="../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Content/Framework/BP_SHooter_Gameinstance.uasset" SILENT=true
+[2022.11.18-16.24.32:482][797]LogSavePackage: Moving output files for package: /Game/Framework/BP_SHooter_Gameinstance
+[2022.11.18-16.24.32:483][797]LogSavePackage: Moving '../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Saved/BP_SHooter_Gameinstance7470BFFB4BF400BC8CA9D1960CF9F5F8.tmp' to '../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Content/Framework/BP_SHooter_Gameinstance.uasset'
+[2022.11.18-16.24.32:498][797]AssetCheck: New page: Asset Save: BP_SHooter_Gameinstance
+[2022.11.18-16.24.32:498][797]LogContentValidation: Display: Validating Blueprint /Game/Framework/BP_SHooter_Gameinstance.BP_SHooter_Gameinstance
+[2022.11.18-16.25.13:102][644]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2022.11.18-16.25.13:104][644]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Map_01' took 0.069
+[2022.11.18-16.25.13:105][644]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Framework/BP_SHooter_PlayerController] ([2] browsable assets)...
+[2022.11.18-16.25.13:105][644]OBJ SavePackage: Finished generating thumbnails for package [/Game/Framework/BP_SHooter_PlayerController]
+[2022.11.18-16.25.13:125][644]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Framework/BP_SHooter_PlayerController_Auto1
+[2022.11.18-16.25.13:125][644]LogSavePackage: Moving '../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Saved/BP_SHooter_PlayerController_AutoDEBF76474C75490E0B7F49A911100F05.tmp' to '../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Saved/Autosaves/Game/Framework/BP_SHooter_PlayerController_Auto1.uasset'
+[2022.11.18-16.25.13:126][644]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/BP_XP_Component] ([2] browsable assets)...
+[2022.11.18-16.25.13:126][644]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/BP_XP_Component]
+[2022.11.18-16.25.13:152][644]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/BP_XP_Component_Auto1
+[2022.11.18-16.25.13:152][644]LogSavePackage: Moving '../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Saved/BP_XP_Component_Auto1174822684BB550F8C87CD4B67B24075F.tmp' to '../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Saved/Autosaves/Game/Characters/BP_XP_Component_Auto1.uasset'
+[2022.11.18-16.25.13:154][644]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Framework/BP_Shooter_Playerstate] ([2] browsable assets)...
+[2022.11.18-16.25.13:154][644]OBJ SavePackage: Finished generating thumbnails for package [/Game/Framework/BP_Shooter_Playerstate]
+[2022.11.18-16.25.13:158][644]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Framework/BP_Shooter_Playerstate_Auto1
+[2022.11.18-16.25.13:158][644]LogSavePackage: Moving '../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Saved/BP_Shooter_Playerstate_Auto18A1ED4564EF663397B72A2A8C15DA0F8.tmp' to '../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Saved/Autosaves/Game/Framework/BP_Shooter_Playerstate_Auto1.uasset'
+[2022.11.18-16.25.13:160][644]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Widgets/WB_Infocard_XP] ([2] browsable assets)...
+[2022.11.18-16.25.13:163][644]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Widgets/WB_Infocard_XP.WB_Infocard_XP]
+[2022.11.18-16.25.13:163][644]OBJ SavePackage: Finished generating thumbnails for package [/Game/Widgets/WB_Infocard_XP]
+[2022.11.18-16.25.13:176][644]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Widgets/WB_Infocard_XP_Auto1
+[2022.11.18-16.25.13:176][644]LogSavePackage: Moving '../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Saved/WB_Infocard_XP_Auto113023A2446770295DE52D7A785B8CA49.tmp' to '../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Saved/Autosaves/Game/Widgets/WB_Infocard_XP_Auto1.uasset'
+[2022.11.18-16.25.13:178][644]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Framework/BP_SHooter_Gamemode] ([2] browsable assets)...
+[2022.11.18-16.25.13:178][644]OBJ SavePackage: Finished generating thumbnails for package [/Game/Framework/BP_SHooter_Gamemode]
+[2022.11.18-16.25.13:205][644]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Framework/BP_SHooter_Gamemode_Auto1
+[2022.11.18-16.25.13:206][644]LogSavePackage: Moving '../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Saved/BP_SHooter_Gamemode_Auto1A56445FC448F151ECDC702AAC5F599B5.tmp' to '../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Saved/Autosaves/Game/Framework/BP_SHooter_Gamemode_Auto1.uasset'
+[2022.11.18-16.25.13:207][644]LogFileHelpers: Auto-saving content packages took 0.103
+[2022.11.18-16.26.41:055][772]BlueprintLog: New page: Compile BP_SHooter_Gameinstance
+[2022.11.18-16.26.41:168][772]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2022.11.18-16.26.41:829][831]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Framework/BP_SHooter_Gameinstance" FILE="../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Content/Framework/BP_SHooter_Gameinstance.uasset" SILENT=true
+[2022.11.18-16.26.41:868][831]LogSavePackage: Moving output files for package: /Game/Framework/BP_SHooter_Gameinstance
+[2022.11.18-16.26.41:869][831]LogSavePackage: Moving '../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Saved/BP_SHooter_GameinstanceF2E5020A4C88FD7A2CDD989966FB7E86.tmp' to '../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Content/Framework/BP_SHooter_Gameinstance.uasset'
+[2022.11.18-16.26.41:886][831]AssetCheck: New page: Asset Save: BP_SHooter_Gameinstance
+[2022.11.18-16.26.41:886][831]LogContentValidation: Display: Validating Blueprint /Game/Framework/BP_SHooter_Gameinstance.BP_SHooter_Gameinstance
+[2022.11.18-16.26.56:190][111]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Framework/BP_MenuController.BP_MenuController
+[2022.11.18-16.26.56:190][111]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.18-16.35.13:816][243]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2022.11.18-16.35.13:817][243]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Map_01' took 0.085
+[2022.11.18-16.35.13:817][243]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Framework/BP_SHooter_PlayerController] ([2] browsable assets)...
+[2022.11.18-16.35.13:817][243]OBJ SavePackage: Finished generating thumbnails for package [/Game/Framework/BP_SHooter_PlayerController]
+[2022.11.18-16.35.13:837][243]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Framework/BP_SHooter_PlayerController_Auto2
+[2022.11.18-16.35.13:837][243]LogSavePackage: Moving '../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Saved/BP_SHooter_PlayerController_Auto667D1173498B21DDB301FBB86F11CFCA.tmp' to '../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Saved/Autosaves/Game/Framework/BP_SHooter_PlayerController_Auto2.uasset'
+[2022.11.18-16.35.13:838][243]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Widgets/WB_Infocard_XP] ([2] browsable assets)...
+[2022.11.18-16.35.13:838][243]OBJ SavePackage: Finished generating thumbnails for package [/Game/Widgets/WB_Infocard_XP]
+[2022.11.18-16.35.13:851][243]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Widgets/WB_Infocard_XP_Auto2
+[2022.11.18-16.35.13:851][243]LogSavePackage: Moving '../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Saved/WB_Infocard_XP_Auto24770388E4F2CD6F1717209814E877C27.tmp' to '../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Saved/Autosaves/Game/Widgets/WB_Infocard_XP_Auto2.uasset'
+[2022.11.18-16.35.13:852][243]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Framework/BP_SHooter_Gamemode] ([2] browsable assets)...
+[2022.11.18-16.35.13:852][243]OBJ SavePackage: Finished generating thumbnails for package [/Game/Framework/BP_SHooter_Gamemode]
+[2022.11.18-16.35.13:878][243]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Framework/BP_SHooter_Gamemode_Auto2
+[2022.11.18-16.35.13:878][243]LogSavePackage: Moving '../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Saved/BP_SHooter_Gamemode_Auto23F080D6E4E1292589F139A95BE1CB8F2.tmp' to '../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Saved/Autosaves/Game/Framework/BP_SHooter_Gamemode_Auto2.uasset'
+[2022.11.18-16.35.13:880][243]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Framework/BP_MenuController] ([2] browsable assets)...
+[2022.11.18-16.35.13:880][243]OBJ SavePackage: Finished generating thumbnails for package [/Game/Framework/BP_MenuController]
+[2022.11.18-16.35.13:928][243]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Framework/BP_MenuController_Auto2
+[2022.11.18-16.35.13:928][243]LogSavePackage: Moving '../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Saved/BP_MenuController_Auto26FA24932403E334F8684B2AC25504D2B.tmp' to '../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Saved/Autosaves/Game/Framework/BP_MenuController_Auto2.uasset'
+[2022.11.18-16.35.13:929][243]LogFileHelpers: Auto-saving content packages took 0.113
+[2022.11.18-16.37.43:726][355]BlueprintLog: New page: Compile BP_MenuController
+[2022.11.18-16.37.43:867][355]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2022.11.18-16.37.44:450][404]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Framework/BP_MenuController" FILE="../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Content/Framework/BP_MenuController.uasset" SILENT=true
+[2022.11.18-16.37.44:495][404]LogSavePackage: Moving output files for package: /Game/Framework/BP_MenuController
+[2022.11.18-16.37.44:496][404]LogSavePackage: Moving '../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Saved/BP_MenuControllerFF8E56764BE4CD2FB7BCE5BB40DCD269.tmp' to '../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Content/Framework/BP_MenuController.uasset'
+[2022.11.18-16.37.44:524][404]AssetCheck: New page: Asset Save: BP_MenuController
+[2022.11.18-16.37.44:525][404]LogContentValidation: Display: Validating Blueprint /Game/Framework/BP_MenuController.BP_MenuController
+[2022.11.18-16.38.44:299][830]BlueprintLog: New page: Compile BP_MenuController
+[2022.11.18-16.38.44:446][830]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2022.11.18-16.38.45:184][894]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Framework/BP_MenuController" FILE="../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Content/Framework/BP_MenuController.uasset" SILENT=true
+[2022.11.18-16.38.45:233][894]LogSavePackage: Moving output files for package: /Game/Framework/BP_MenuController
+[2022.11.18-16.38.45:233][894]LogSavePackage: Moving '../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Saved/BP_MenuControllerD5B893D84BD780204DAEDCBEFE66BBDF.tmp' to '../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Content/Framework/BP_MenuController.uasset'
+[2022.11.18-16.38.45:250][894]AssetCheck: New page: Asset Save: BP_MenuController
+[2022.11.18-16.38.45:250][894]LogContentValidation: Display: Validating Blueprint /Game/Framework/BP_MenuController.BP_MenuController
+[2022.11.18-16.38.46:874][ 63]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2022.11.18-16.38.46:952][ 63]LogSavePackage: Moving output files for package: /Game/Framework/BP_SHooter_PlayerController
+[2022.11.18-16.38.46:953][ 63]LogSavePackage: Moving '../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Saved/BP_SHooter_PlayerController98FBD0C64E62596E9F8804AC588CB276.tmp' to '../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Content/Framework/BP_SHooter_PlayerController.uasset'
+[2022.11.18-16.38.46:954][ 63]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/BP_XP_Component" FILE="../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Content/Characters/BP_XP_Component.uasset" SILENT=true
+[2022.11.18-16.38.46:979][ 63]LogSavePackage: Moving output files for package: /Game/Characters/BP_XP_Component
+[2022.11.18-16.38.46:980][ 63]LogSavePackage: Moving '../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Saved/BP_XP_ComponentD12E29594C2541B85FEBAA8AC60FA485.tmp' to '../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Content/Characters/BP_XP_Component.uasset'
+[2022.11.18-16.38.46:982][ 63]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Framework/BP_Shooter_Playerstate" FILE="../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Content/Framework/BP_Shooter_Playerstate.uasset" SILENT=true
+[2022.11.18-16.38.46:986][ 63]LogSavePackage: Moving output files for package: /Game/Framework/BP_Shooter_Playerstate
+[2022.11.18-16.38.46:987][ 63]LogSavePackage: Moving '../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Saved/BP_Shooter_Playerstate7E6D7AA74BE0BD03BEEE488C62D4D046.tmp' to '../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Content/Framework/BP_Shooter_Playerstate.uasset'
+[2022.11.18-16.38.46:988][ 63]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/WB_Infocard_XP" FILE="../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Content/Widgets/WB_Infocard_XP.uasset" SILENT=true
+[2022.11.18-16.38.47:001][ 63]LogSavePackage: Moving output files for package: /Game/Widgets/WB_Infocard_XP
+[2022.11.18-16.38.47:002][ 63]LogSavePackage: Moving '../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Saved/WB_Infocard_XPF684BB9745088FFF96CB1DB3FA7BA3B3.tmp' to '../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Content/Widgets/WB_Infocard_XP.uasset'
+[2022.11.18-16.38.47:003][ 63]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Framework/BP_SHooter_Gamemode" FILE="../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Content/Framework/BP_SHooter_Gamemode.uasset" SILENT=true
+[2022.11.18-16.38.47:029][ 63]LogSavePackage: Moving output files for package: /Game/Framework/BP_SHooter_Gamemode
+[2022.11.18-16.38.47:030][ 63]LogSavePackage: Moving '../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Saved/BP_SHooter_GamemodeDBD4FDDE406FC4411A15C18A43D8E38F.tmp' to '../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Content/Framework/BP_SHooter_Gamemode.uasset'
+[2022.11.18-16.38.47:047][ 63]AssetCheck: New page: Asset Save: multiple assets
+[2022.11.18-16.38.47:047][ 63]LogContentValidation: Display: Validating Blueprint /Game/Characters/BP_XP_Component.BP_XP_Component
+[2022.11.18-16.38.47:047][ 63]LogContentValidation: Display: Validating Blueprint /Game/Framework/BP_SHooter_PlayerController.BP_SHooter_PlayerController
+[2022.11.18-16.38.47:047][ 63]LogContentValidation: Display: Validating Blueprint /Game/Framework/BP_Shooter_Playerstate.BP_Shooter_Playerstate
+[2022.11.18-16.38.47:047][ 63]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widgets/WB_Infocard_XP.WB_Infocard_XP
+[2022.11.18-16.38.47:048][ 63]LogContentValidation: Display: Validating Blueprint /Game/Framework/BP_SHooter_Gamemode.BP_SHooter_Gamemode
+[2022.11.18-16.39.24:184][461]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2022.11.18-16.40.34:136][297]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Framework/BP_Menu_GameMode.BP_Menu_GameMode
+[2022.11.18-16.40.34:137][297]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.18-16.41.33:406][ 23]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/Characters/S_CharCustomisation.S_CharCustomisation
+[2022.11.18-16.41.47:465][338]LogSlate: Took 0.005109 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2022.11.18-16.41.49:367][512]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/S_CharCustomisation" FILE="../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Content/Characters/S_CharCustomisation.uasset" SILENT=true
+[2022.11.18-16.41.49:369][512]LogSavePackage: Moving output files for package: /Game/Characters/S_CharCustomisation
+[2022.11.18-16.41.49:370][512]LogSavePackage: Moving '../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Saved/S_CharCustomisation7F50BBE247C488C9F177C69FB119A333.tmp' to '../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Content/Characters/S_CharCustomisation.uasset'
+[2022.11.18-16.41.49:384][512]AssetCheck: New page: Asset Save: S_CharCustomisation
+[2022.11.18-16.41.49:384][512]LogContentValidation: Display: Validating UserDefinedStruct /Game/Characters/S_CharCustomisation.S_CharCustomisation
+[2022.11.18-16.41.50:376][615]LogSlate: Window 'S_CharCustomisation' being destroyed
+[2022.11.18-16.42.09:452][ 72]BlueprintLog: New page: Compile BP_Menu_GameMode
+[2022.11.18-16.42.09:603][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2022.11.18-16.42.10:170][103]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Framework/BP_Menu_GameMode" FILE="../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Content/Framework/BP_Menu_GameMode.uasset" SILENT=true
+[2022.11.18-16.42.10:213][103]LogSavePackage: Moving output files for package: /Game/Framework/BP_Menu_GameMode
+[2022.11.18-16.42.10:214][103]LogSavePackage: Moving '../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Saved/BP_Menu_GameMode1F557CE0420658F12E0504BE9689263D.tmp' to '../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Content/Framework/BP_Menu_GameMode.uasset'
+[2022.11.18-16.42.10:230][103]AssetCheck: New page: Asset Save: BP_Menu_GameMode
+[2022.11.18-16.42.10:230][103]LogContentValidation: Display: Validating Blueprint /Game/Framework/BP_Menu_GameMode.BP_Menu_GameMode
+[2022.11.18-16.42.11:591][227]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2022.11.18-16.42.11:667][227]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/BP_Hero_Base" FILE="../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Content/Characters/BP_Hero_Base.uasset" SILENT=true
+[2022.11.18-16.42.11:833][227]LogSavePackage: Moving output files for package: /Game/Characters/BP_Hero_Base
+[2022.11.18-16.42.11:834][227]LogSavePackage: Moving '../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Saved/BP_Hero_Base658CB8AE44F243D640D200A17E0407A3.tmp' to '../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Content/Characters/BP_Hero_Base.uasset'
+[2022.11.18-16.42.11:835][227]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/CharCustomisation_Table" FILE="../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Content/Characters/CharCustomisation_Table.uasset" SILENT=true
+[2022.11.18-16.42.11:838][227]LogSavePackage: Moving output files for package: /Game/Characters/CharCustomisation_Table
+[2022.11.18-16.42.11:839][227]LogSavePackage: Moving '../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Saved/CharCustomisation_TableB24CA24A49AA269D4DB2AC8E5FC009DB.tmp' to '../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Content/Characters/CharCustomisation_Table.uasset'
+[2022.11.18-16.42.11:848][227]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/WB_CharacterMenu" FILE="../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Content/Widgets/WB_CharacterMenu.uasset" SILENT=true
+[2022.11.18-16.42.11:940][227]LogSavePackage: Moving output files for package: /Game/Widgets/WB_CharacterMenu
+[2022.11.18-16.42.11:941][227]LogSavePackage: Moving '../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Saved/WB_CharacterMenu6E2619EB49862C8D98F9708D6819A5E0.tmp' to '../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Content/Widgets/WB_CharacterMenu.uasset'
+[2022.11.18-16.42.11:959][227]AssetCheck: New page: Asset Save: multiple assets
+[2022.11.18-16.42.11:959][227]LogContentValidation: Display: Validating Blueprint /Game/Characters/BP_Hero_Base.BP_Hero_Base
+[2022.11.18-16.42.11:959][227]LogContentValidation: Display: Validating DataTable /Game/Characters/CharCustomisation_Table.CharCustomisation_Table
+[2022.11.18-16.42.11:959][227]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widgets/WB_CharacterMenu.WB_CharacterMenu
+[2022.11.18-16.42.28:974][  0]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/Characters/S_ModelAndSkins.S_ModelAndSkins
+[2022.11.18-16.42.45:303][612]LogClass: UUserDefinedStruct.Serialize 'STRUCT_REINST_S_CharCustomisation_16' validation: Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_S_CharCustomisation_16' is empty
+[2022.11.18-16.42.45:308][612]LogClass: UUserDefinedStruct.Serialize 'STRUCT_REINST_S_CharCustomisation_17' validation: Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_S_CharCustomisation_17' is empty
+[2022.11.18-16.42.59:690][  6]LogClass: UUserDefinedStruct.Serialize 'STRUCT_REINST_S_CharCustomisation_20' validation: Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_S_CharCustomisation_20' is empty
+[2022.11.18-16.42.59:696][  6]LogClass: UUserDefinedStruct.Serialize 'STRUCT_REINST_S_CharCustomisation_21' validation: Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_S_CharCustomisation_21' is empty
+[2022.11.18-16.43.00:895][ 85]LogClass: UUserDefinedStruct.Serialize 'STRUCT_REINST_S_CharCustomisation_24' validation: Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_S_CharCustomisation_24' is empty
+[2022.11.18-16.43.00:926][ 85]LogClass: UUserDefinedStruct.Serialize 'STRUCT_REINST_S_CharCustomisation_25' validation: Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_S_CharCustomisation_25' is empty
+[2022.11.18-16.43.02:277][185]LogClass: UUserDefinedStruct.Serialize 'STRUCT_REINST_S_CharCustomisation_28' validation: Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_S_CharCustomisation_28' is empty
+[2022.11.18-16.43.02:283][185]LogClass: UUserDefinedStruct.Serialize 'STRUCT_REINST_S_CharCustomisation_29' validation: Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_S_CharCustomisation_29' is empty
+[2022.11.18-16.43.11:070][980]LogClass: UUserDefinedStruct.Serialize 'STRUCT_REINST_S_CharCustomisation_32' validation: Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_S_CharCustomisation_32' is empty
+[2022.11.18-16.43.11:075][980]LogClass: UUserDefinedStruct.Serialize 'STRUCT_REINST_S_CharCustomisation_33' validation: Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_S_CharCustomisation_33' is empty
+[2022.11.18-16.43.13:452][165]LogClass: UUserDefinedStruct.Serialize 'STRUCT_REINST_S_CharCustomisation_36' validation: Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_S_CharCustomisation_36' is empty
+[2022.11.18-16.43.13:457][165]LogClass: UUserDefinedStruct.Serialize 'STRUCT_REINST_S_CharCustomisation_37' validation: Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_S_CharCustomisation_37' is empty
+[2022.11.18-16.43.14:689][256]LogClass: UUserDefinedStruct.Serialize 'STRUCT_REINST_S_CharCustomisation_40' validation: Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_S_CharCustomisation_40' is empty
+[2022.11.18-16.43.14:695][256]LogClass: UUserDefinedStruct.Serialize 'STRUCT_REINST_S_CharCustomisation_41' validation: Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_S_CharCustomisation_41' is empty
+[2022.11.18-16.43.14:703][256]LogClass: Warning: UUserDefinedStructEditorData::RecreateDefaultInstance Cannot parse value. Property: SkinsUnlockLevels String: "None"  Struct: /Game/Characters/S_ModelAndSkins.S_ModelAndSkins 
+[2022.11.18-16.43.14:703][256]LogBlueprint: Error: [AssetLog] C:\Users\EMI\Documents\GitHub\UE5_03\UE5_03\Content\Characters\S_ModelAndSkins.uasset: [Compiler] Cannot parse value. Property: SkinsUnlockLevels String: "None" 
+[2022.11.18-16.43.14:704][256]LogBlueprint: Error: [AssetLog] C:\Users\EMI\Documents\GitHub\UE5_03\UE5_03\Content\Characters\S_ModelAndSkins.uasset: [Compiler] Invalid property 'ModelsAndSkins_4_D14649254DC0C7026A8158B028EFF4AB_Value' structure 'S_ModelAndSkins' error: Struct 'UserDefinedStruct /Game/Characters/S_ModelAndSkins.S_ModelAndSkins' is not compiled
+[2022.11.18-16.43.14:704][256]LogBlueprint: Error: [AssetLog] C:\Users\EMI\Documents\GitHub\UE5_03\UE5_03\Content\Characters\S_ModelAndSkins.uasset: [Compiler] The variable ModelsAndSkins_4_D14649254DC0C7026A8158B028EFF4AB declared in S_CharCustomisation has an invalid type Map of Names to S Model And Skins Structures
+[2022.11.18-16.43.14:749][256]LogBlueprint: Error: [AssetLog] C:\Users\EMI\Documents\GitHub\UE5_03\UE5_03\Content\Widgets\WB_CharacterMenu.uasset: [Compiler] Invalid property 'Models and Skins_Map_Value' structure 'S_ModelAndSkins' error: Struct 'UserDefinedStruct /Game/Characters/S_ModelAndSkins.S_ModelAndSkins' is not compiled
+[2022.11.18-16.43.14:749][256]LogBlueprint: Error: [AssetLog] C:\Users\EMI\Documents\GitHub\UE5_03\UE5_03\Content\Widgets\WB_CharacterMenu.uasset: [Compiler] The variable Models and Skins_Map declared in  WB_CharacterMenu  has an invalid type Map of Names to S Model And Skins Structures
+[2022.11.18-16.43.16:071][345]LogClass: Warning: UUserDefinedStructEditorData::RecreateDefaultInstance Cannot parse value. Property: SkinsUnlockLevels String: "None"  Struct: /Engine/Transient.STRUCT_REINST_S_ModelAndSkins_42 
+[2022.11.18-16.43.16:078][345]LogClass: Warning: UUserDefinedStructEditorData::RecreateDefaultInstance Cannot parse value. Property: SkinsUnlockLevels String: "None"  Struct: /Engine/Transient.STRUCT_REINST_S_ModelAndSkins_43 
+[2022.11.18-16.43.17:234][413]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/S_ModelAndSkins" FILE="../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Content/Characters/S_ModelAndSkins.uasset" SILENT=true
+[2022.11.18-16.43.17:237][413]LogSavePackage: Moving output files for package: /Game/Characters/S_ModelAndSkins
+[2022.11.18-16.43.17:238][413]LogSavePackage: Moving '../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Saved/S_ModelAndSkins5BAF198644530BCB32F97EA9172A7FED.tmp' to '../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Content/Characters/S_ModelAndSkins.uasset'
+[2022.11.18-16.43.17:255][413]AssetCheck: New page: Asset Save: S_ModelAndSkins
+[2022.11.18-16.43.17:255][413]LogContentValidation: Display: Validating UserDefinedStruct /Game/Characters/S_ModelAndSkins.S_ModelAndSkins
+[2022.11.18-16.43.36:936][839]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/S_ModelAndSkins" FILE="../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Content/Characters/S_ModelAndSkins.uasset" SILENT=true
+[2022.11.18-16.43.36:939][839]LogSavePackage: Moving output files for package: /Game/Characters/S_ModelAndSkins
+[2022.11.18-16.43.36:940][839]LogSavePackage: Moving '../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Saved/S_ModelAndSkins3B470C0C4A5D9385A3105391E3D73125.tmp' to '../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Content/Characters/S_ModelAndSkins.uasset'
+[2022.11.18-16.43.36:954][839]AssetCheck: New page: Asset Save: S_ModelAndSkins
+[2022.11.18-16.43.36:954][839]LogContentValidation: Display: Validating UserDefinedStruct /Game/Characters/S_ModelAndSkins.S_ModelAndSkins
+[2022.11.18-16.43.41:462][890]LogSlate: Window 'S_ModelAndSkins' being destroyed
+[2022.11.18-16.43.41:466][890]LogSlate: Window 'S_ModelAndSkins' being destroyed
+[2022.11.18-16.43.46:212][224]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2022.11.18-16.43.46:285][224]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/BP_Hero_Base" FILE="../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Content/Characters/BP_Hero_Base.uasset" SILENT=true
+[2022.11.18-16.43.46:449][224]LogSavePackage: Moving output files for package: /Game/Characters/BP_Hero_Base
+[2022.11.18-16.43.46:450][224]LogSavePackage: Moving '../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Saved/BP_Hero_BaseA6F775DC4B28A9C4389A3CA8EB9D2D7F.tmp' to '../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Content/Characters/BP_Hero_Base.uasset'
+[2022.11.18-16.43.46:452][224]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/S_CharCustomisation" FILE="../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Content/Characters/S_CharCustomisation.uasset" SILENT=true
+[2022.11.18-16.43.46:453][224]LogSavePackage: Moving output files for package: /Game/Characters/S_CharCustomisation
+[2022.11.18-16.43.46:454][224]LogSavePackage: Moving '../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Saved/S_CharCustomisation04BDD9BB4FD3DE024C1B5CB03BDB57FD.tmp' to '../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Content/Characters/S_CharCustomisation.uasset'
+[2022.11.18-16.43.46:455][224]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/CharCustomisation_Table" FILE="../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Content/Characters/CharCustomisation_Table.uasset" SILENT=true
+[2022.11.18-16.43.46:456][224]LogSavePackage: Moving output files for package: /Game/Characters/CharCustomisation_Table
+[2022.11.18-16.43.46:457][224]LogSavePackage: Moving '../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Saved/CharCustomisation_Table6EDBA26248107AF3D46761875376667F.tmp' to '../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Content/Characters/CharCustomisation_Table.uasset'
+[2022.11.18-16.43.46:458][224]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Framework/BP_Menu_GameMode" FILE="../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Content/Framework/BP_Menu_GameMode.uasset" SILENT=true
+[2022.11.18-16.43.46:499][224]LogSavePackage: Moving output files for package: /Game/Framework/BP_Menu_GameMode
+[2022.11.18-16.43.46:500][224]LogSavePackage: Moving '../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Saved/BP_Menu_GameModeE6E505E5437F56AC46B2D58E29CE50CA.tmp' to '../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Content/Framework/BP_Menu_GameMode.uasset'
+[2022.11.18-16.43.46:505][224]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/WB_CharacterMenu" FILE="../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Content/Widgets/WB_CharacterMenu.uasset" SILENT=true
+[2022.11.18-16.43.46:596][224]LogSavePackage: Moving output files for package: /Game/Widgets/WB_CharacterMenu
+[2022.11.18-16.43.46:597][224]LogSavePackage: Moving '../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Saved/WB_CharacterMenuF5CE490445ECC99A6F1228B7FD481019.tmp' to '../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Content/Widgets/WB_CharacterMenu.uasset'
+[2022.11.18-16.43.46:614][224]AssetCheck: New page: Asset Save: multiple assets
+[2022.11.18-16.43.46:614][224]LogContentValidation: Display: Validating Blueprint /Game/Characters/BP_Hero_Base.BP_Hero_Base
+[2022.11.18-16.43.46:614][224]LogContentValidation: Display: Validating UserDefinedStruct /Game/Characters/S_CharCustomisation.S_CharCustomisation
+[2022.11.18-16.43.46:614][224]LogContentValidation: Display: Validating DataTable /Game/Characters/CharCustomisation_Table.CharCustomisation_Table
+[2022.11.18-16.43.46:615][224]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widgets/WB_CharacterMenu.WB_CharacterMenu
+[2022.11.18-16.43.46:617][224]LogContentValidation: Display: Validating Blueprint /Game/Framework/BP_Menu_GameMode.BP_Menu_GameMode
+[2022.11.18-16.43.58:557][659]LogAssetEditorSubsystem: Opening Asset editor for DataTable /Game/Characters/CharCustomisation_Table.CharCustomisation_Table
+[2022.11.18-16.44.30:598][  4]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/Characters/S_CharCustomisation.S_CharCustomisation
+[2022.11.18-16.45.24:236][523]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/S_CharCustomisation" FILE="../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Content/Characters/S_CharCustomisation.uasset" SILENT=true
+[2022.11.18-16.45.24:238][523]LogSavePackage: Moving output files for package: /Game/Characters/S_CharCustomisation
+[2022.11.18-16.45.24:239][523]LogSavePackage: Moving '../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Saved/S_CharCustomisation8FF4D13247CB2D323D96049167AF68EB.tmp' to '../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Content/Characters/S_CharCustomisation.uasset'
+[2022.11.18-16.45.24:256][523]AssetCheck: New page: Asset Save: S_CharCustomisation
+[2022.11.18-16.45.24:256][523]LogContentValidation: Display: Validating UserDefinedStruct /Game/Characters/S_CharCustomisation.S_CharCustomisation
+[2022.11.18-16.45.54:337][ 18]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/Characters/S_ModelAndSkins.S_ModelAndSkins
+[2022.11.18-16.45.56:801][276]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/S_ModelAndSkins" FILE="../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Content/Characters/S_ModelAndSkins.uasset" SILENT=true
+[2022.11.18-16.45.56:804][276]LogSavePackage: Moving output files for package: /Game/Characters/S_ModelAndSkins
+[2022.11.18-16.45.56:805][276]LogSavePackage: Moving '../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Saved/S_ModelAndSkins335682EA4DA466117D2F0E9134DA6E59.tmp' to '../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Content/Characters/S_ModelAndSkins.uasset'
+[2022.11.18-16.45.56:826][276]AssetCheck: New page: Asset Save: S_ModelAndSkins
+[2022.11.18-16.45.56:826][276]LogContentValidation: Display: Validating UserDefinedStruct /Game/Characters/S_ModelAndSkins.S_ModelAndSkins
+[2022.11.18-16.46.06:835][404]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/S_CharCustomisation" FILE="../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Content/Characters/S_CharCustomisation.uasset" SILENT=true
+[2022.11.18-16.46.06:837][404]LogSavePackage: Moving output files for package: /Game/Characters/S_CharCustomisation
+[2022.11.18-16.46.06:838][404]LogSavePackage: Moving '../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Saved/S_CharCustomisationAF099C6041CFA97700868EB8C0604A66.tmp' to '../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Content/Characters/S_CharCustomisation.uasset'
+[2022.11.18-16.46.06:865][404]AssetCheck: New page: Asset Save: S_CharCustomisation
+[2022.11.18-16.46.06:865][404]LogContentValidation: Display: Validating UserDefinedStruct /Game/Characters/S_CharCustomisation.S_CharCustomisation
+[2022.11.18-16.46.24:246][414]LogSlate: Window 'S_ModelAndSkins' being destroyed
+[2022.11.18-16.46.24:250][414]LogSlate: Window 'S_ModelAndSkins' being destroyed
+[2022.11.18-16.47.02:548][617]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/Characters/S_CharCustomisation.S_CharCustomisation
+[2022.11.18-16.47.05:081][880]Cmd: TRANSACTION UNDO
+[2022.11.18-16.47.05:081][880]LogEditorTransaction: Undo Change Parameter Type
+[2022.11.18-16.47.07:850][112]Cmd: TRANSACTION UNDO
+[2022.11.18-16.47.07:850][112]LogEditorTransaction: Undo Change Parameter Type
+[2022.11.18-16.47.08:249][112]Cmd: TRANSACTION UNDO
+[2022.11.18-16.47.08:249][112]LogEditorTransaction: Undo Rename Variable
+[2022.11.18-16.47.08:636][112]Cmd: TRANSACTION UNDO
+[2022.11.18-16.47.08:636][112]LogEditorTransaction: Undo Add Variable
+[2022.11.18-16.47.09:027][112]Cmd: TRANSACTION UNDO
+[2022.11.18-16.47.09:027][112]LogEditorTransaction: Undo Change Parameter Type
+[2022.11.18-16.47.09:368][112]LogClass: Warning: UUserDefinedStructEditorData::RecreateDefaultInstance Cannot parse value. Property: SkinsUnlockLevels String: "None"  Struct: /Game/Characters/S_ModelAndSkins.S_ModelAndSkins 
+[2022.11.18-16.47.09:368][112]LogBlueprint: Error: [AssetLog] C:\Users\EMI\Documents\GitHub\UE5_03\UE5_03\Content\Characters\S_ModelAndSkins.uasset: [Compiler] Cannot parse value. Property: SkinsUnlockLevels String: "None" 
+[2022.11.18-16.47.09:390][112]LogBlueprint: Error: [AssetLog] C:\Users\EMI\Documents\GitHub\UE5_03\UE5_03\Content\Widgets\WB_CharacterMenu.uasset: [Compiler] Invalid property 'Models and Skins_Map_Value' structure 'S_ModelAndSkins' error: Struct 'UserDefinedStruct /Game/Characters/S_ModelAndSkins.S_ModelAndSkins' is not compiled
+[2022.11.18-16.47.09:390][112]LogBlueprint: Error: [AssetLog] C:\Users\EMI\Documents\GitHub\UE5_03\UE5_03\Content\Widgets\WB_CharacterMenu.uasset: [Compiler] The variable Models and Skins_Map declared in  WB_CharacterMenu  has an invalid type Map of Names to S Model And Skins Structures
+[2022.11.18-16.47.09:412][112]Cmd: TRANSACTION UNDO
+[2022.11.18-16.47.09:412][112]LogEditorTransaction: Undo Change Parameter Type
+[2022.11.18-16.47.09:835][112]LogBlueprint: Error: [AssetLog] C:\Users\EMI\Documents\GitHub\UE5_03\UE5_03\Content\Widgets\WB_CharacterMenu.uasset: [Compiler] Invalid property 'Models and Skins_Map_Value' structure 'S_ModelAndSkins' error: Struct 'UserDefinedStruct /Game/Characters/S_ModelAndSkins.S_ModelAndSkins' is not compiled
+[2022.11.18-16.47.09:836][112]LogBlueprint: Error: [AssetLog] C:\Users\EMI\Documents\GitHub\UE5_03\UE5_03\Content\Widgets\WB_CharacterMenu.uasset: [Compiler] The variable Models and Skins_Map declared in  WB_CharacterMenu  has an invalid type Map of Names to S Model And Skins Structures
+[2022.11.18-16.47.09:897][112]Cmd: TRANSACTION UNDO
+[2022.11.18-16.47.09:897][112]LogEditorTransaction: Undo Change Parameter Type
+[2022.11.18-16.47.10:396][112]Cmd: TRANSACTION UNDO
+[2022.11.18-16.47.10:396][112]LogEditorTransaction: Undo Rename Variable
+[2022.11.18-16.47.10:878][112]Cmd: TRANSACTION UNDO
+[2022.11.18-16.47.10:878][112]LogEditorTransaction: Undo Add Variable
+[2022.11.18-16.47.11:434][112]Cmd: TRANSACTION UNDO
+[2022.11.18-16.47.11:434][112]LogEditorTransaction: Undo Change Parameter Type
+[2022.11.18-16.47.11:917][112]Cmd: TRANSACTION UNDO
+[2022.11.18-16.47.11:917][112]LogEditorTransaction: Undo Rename Variable
+[2022.11.18-16.47.12:460][112]Cmd: TRANSACTION UNDO
+[2022.11.18-16.47.12:460][112]LogEditorTransaction: Undo Add Variable
+[2022.11.18-16.47.12:999][112]Cmd: TRANSACTION UNDO
+[2022.11.18-16.47.12:999][112]LogEditorTransaction: Undo Change Parameter Type
+[2022.11.18-16.47.15:320][257]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/S_CharCustomisation" FILE="../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Content/Characters/S_CharCustomisation.uasset" SILENT=true
+[2022.11.18-16.47.15:321][257]LogSavePackage: Moving output files for package: /Game/Characters/S_CharCustomisation
+[2022.11.18-16.47.15:322][257]LogSavePackage: Moving '../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Saved/S_CharCustomisation8E042A2D4B598A56412BB6A380DC7406.tmp' to '../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Content/Characters/S_CharCustomisation.uasset'
+[2022.11.18-16.47.15:343][257]AssetCheck: New page: Asset Save: S_CharCustomisation
+[2022.11.18-16.47.15:343][257]LogContentValidation: Display: Validating UserDefinedStruct /Game/Characters/S_CharCustomisation.S_CharCustomisation
+[2022.11.18-16.47.18:252][542]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/S_CharCustomisation" FILE="../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Content/Characters/S_CharCustomisation.uasset" SILENT=true
+[2022.11.18-16.47.18:253][542]LogSavePackage: Moving output files for package: /Game/Characters/S_CharCustomisation
+[2022.11.18-16.47.18:254][542]LogSavePackage: Moving '../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Saved/S_CharCustomisation50383AEA4F2991E1AFF3D29371CF4F52.tmp' to '../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Content/Characters/S_CharCustomisation.uasset'
+[2022.11.18-16.47.18:294][542]AssetCheck: New page: Asset Save: S_CharCustomisation
+[2022.11.18-16.47.18:294][542]LogContentValidation: Display: Validating UserDefinedStruct /Game/Characters/S_CharCustomisation.S_CharCustomisation
+[2022.11.18-16.47.32:004][919]LogSlate: Window 'S_CharCustomisation' being destroyed
+[2022.11.18-16.47.37:229][525]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/Characters/S_ModelAndSkins.S_ModelAndSkins
+[2022.11.18-16.47.51:817][916]LogClass: UUserDefinedStruct.Serialize 'STRUCT_REINST_S_CharCustomisation_82' validation: Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_S_CharCustomisation_82' is empty
+[2022.11.18-16.47.51:823][916]LogClass: UUserDefinedStruct.Serialize 'STRUCT_REINST_S_CharCustomisation_83' validation: Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_S_CharCustomisation_83' is empty
+[2022.11.18-16.48.00:445][874]LogClass: UUserDefinedStruct.Serialize 'STRUCT_REINST_S_CharCustomisation_86' validation: Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_S_CharCustomisation_86' is empty
+[2022.11.18-16.48.00:451][874]LogClass: UUserDefinedStruct.Serialize 'STRUCT_REINST_S_CharCustomisation_87' validation: Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_S_CharCustomisation_87' is empty
+[2022.11.18-16.48.03:987][180]LogClass: UUserDefinedStruct.Serialize 'STRUCT_REINST_S_CharCustomisation_90' validation: Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_S_CharCustomisation_90' is empty
+[2022.11.18-16.48.03:993][180]LogClass: UUserDefinedStruct.Serialize 'STRUCT_REINST_S_CharCustomisation_91' validation: Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_S_CharCustomisation_91' is empty
+[2022.11.18-16.48.14:154][116]LogClass: UUserDefinedStruct.Serialize 'STRUCT_REINST_S_CharCustomisation_94' validation: Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_S_CharCustomisation_94' is empty
+[2022.11.18-16.48.14:182][116]LogClass: UUserDefinedStruct.Serialize 'STRUCT_REINST_S_CharCustomisation_95' validation: Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_S_CharCustomisation_95' is empty
+[2022.11.18-16.48.23:884][ 84]LogClass: UUserDefinedStruct.Serialize 'STRUCT_REINST_S_CharCustomisation_98' validation: Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_S_CharCustomisation_98' is empty
+[2022.11.18-16.48.23:890][ 84]LogClass: UUserDefinedStruct.Serialize 'STRUCT_REINST_S_CharCustomisation_99' validation: Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_S_CharCustomisation_99' is empty
+[2022.11.18-16.48.25:548][247]LogClass: UUserDefinedStruct.Serialize 'STRUCT_REINST_S_CharCustomisation_102' validation: Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_S_CharCustomisation_102' is empty
+[2022.11.18-16.48.25:554][247]LogClass: UUserDefinedStruct.Serialize 'STRUCT_REINST_S_CharCustomisation_103' validation: Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_S_CharCustomisation_103' is empty
+[2022.11.18-16.48.26:859][384]LogClass: UUserDefinedStruct.Serialize 'STRUCT_REINST_S_CharCustomisation_106' validation: Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_S_CharCustomisation_106' is empty
+[2022.11.18-16.48.26:865][384]LogClass: UUserDefinedStruct.Serialize 'STRUCT_REINST_S_CharCustomisation_107' validation: Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_S_CharCustomisation_107' is empty
+[2022.11.18-16.48.26:871][384]LogClass: Warning: UUserDefinedStructEditorData::RecreateDefaultInstance Cannot parse value. Property: SkinsUnlockLevels String: "None"  Struct: /Game/Characters/S_ModelAndSkins.S_ModelAndSkins 
+[2022.11.18-16.48.26:871][384]LogBlueprint: Error: [AssetLog] C:\Users\EMI\Documents\GitHub\UE5_03\UE5_03\Content\Characters\S_ModelAndSkins.uasset: [Compiler] Cannot parse value. Property: SkinsUnlockLevels String: "None" 
+[2022.11.18-16.48.26:871][384]LogBlueprint: Error: [AssetLog] C:\Users\EMI\Documents\GitHub\UE5_03\UE5_03\Content\Characters\S_ModelAndSkins.uasset: [Compiler] Invalid property 'ModelsAndSkins_4_D14649254DC0C7026A8158B028EFF4AB_Value' structure 'S_ModelAndSkins' error: Struct 'UserDefinedStruct /Game/Characters/S_ModelAndSkins.S_ModelAndSkins' is not compiled
+[2022.11.18-16.48.26:871][384]LogBlueprint: Error: [AssetLog] C:\Users\EMI\Documents\GitHub\UE5_03\UE5_03\Content\Characters\S_ModelAndSkins.uasset: [Compiler] The variable ModelsAndSkins_4_D14649254DC0C7026A8158B028EFF4AB declared in S_CharCustomisation has an invalid type Map of Names to S Model And Skins Structures
+[2022.11.18-16.48.26:871][384]LogBlueprint: Error: [AssetLog] C:\Users\EMI\Documents\GitHub\UE5_03\UE5_03\Content\Characters\S_ModelAndSkins.uasset: [Compiler] Structure 'UserDefinedStruct /Game/Characters/S_CharCustomisation.S_CharCustomisation' is empty 
+[2022.11.18-16.48.26:895][384]LogBlueprint: Error: [AssetLog] C:\Users\EMI\Documents\GitHub\UE5_03\UE5_03\Content\Widgets\WB_CharacterMenu.uasset: [Compiler] Invalid property 'Models and Skins_Map_Value' structure 'S_ModelAndSkins' error: Struct 'UserDefinedStruct /Game/Characters/S_ModelAndSkins.S_ModelAndSkins' is not compiled
+[2022.11.18-16.48.26:895][384]LogBlueprint: Error: [AssetLog] C:\Users\EMI\Documents\GitHub\UE5_03\UE5_03\Content\Widgets\WB_CharacterMenu.uasset: [Compiler] The variable Models and Skins_Map declared in  WB_CharacterMenu  has an invalid type Map of Names to S Model And Skins Structures
+[2022.11.18-16.48.29:013][613]LogClass: Warning: UUserDefinedStructEditorData::RecreateDefaultInstance Cannot parse value. Property: SkinsUnlockLevels String: "None"  Struct: /Engine/Transient.STRUCT_REINST_S_ModelAndSkins_108 
+[2022.11.18-16.48.29:020][613]LogClass: Warning: UUserDefinedStructEditorData::RecreateDefaultInstance Cannot parse value. Property: SkinsUnlockLevels String: "None"  Struct: /Engine/Transient.STRUCT_REINST_S_ModelAndSkins_109 
+[2022.11.18-16.48.46:536][162]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/S_ModelAndSkins" FILE="../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Content/Characters/S_ModelAndSkins.uasset" SILENT=true
+[2022.11.18-16.48.46:538][162]LogSavePackage: Moving output files for package: /Game/Characters/S_ModelAndSkins
+[2022.11.18-16.48.46:539][162]LogSavePackage: Moving '../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Saved/S_ModelAndSkinsCF075CAB41229CFCFB3B8FB094C33598.tmp' to '../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Content/Characters/S_ModelAndSkins.uasset'
+[2022.11.18-16.48.46:561][162]AssetCheck: New page: Asset Save: S_ModelAndSkins
+[2022.11.18-16.48.46:562][162]LogContentValidation: Display: Validating UserDefinedStruct /Game/Characters/S_ModelAndSkins.S_ModelAndSkins
+[2022.11.18-16.49.09:153][256]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/S_ModelAndSkins" FILE="../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Content/Characters/S_ModelAndSkins.uasset" SILENT=true
+[2022.11.18-16.49.09:156][256]LogSavePackage: Moving output files for package: /Game/Characters/S_ModelAndSkins
+[2022.11.18-16.49.09:156][256]LogSavePackage: Moving '../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Saved/S_ModelAndSkins022061874403310DA0F1D6A685DB32BE.tmp' to '../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Content/Characters/S_ModelAndSkins.uasset'
+[2022.11.18-16.49.09:174][256]AssetCheck: New page: Asset Save: S_ModelAndSkins
+[2022.11.18-16.49.09:174][256]LogContentValidation: Display: Validating UserDefinedStruct /Game/Characters/S_ModelAndSkins.S_ModelAndSkins
+[2022.11.18-16.49.12:186][592]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/S_CharCustomisation" FILE="../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Content/Characters/S_CharCustomisation.uasset" SILENT=true
+[2022.11.18-16.49.12:188][592]LogSavePackage: Moving output files for package: /Game/Characters/S_CharCustomisation
+[2022.11.18-16.49.12:189][592]LogSavePackage: Moving '../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Saved/S_CharCustomisation38D7A94C45180B9768BD39AAED8FDBF7.tmp' to '../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Content/Characters/S_CharCustomisation.uasset'
+[2022.11.18-16.49.12:207][592]AssetCheck: New page: Asset Save: S_CharCustomisation
+[2022.11.18-16.49.12:207][592]LogContentValidation: Display: Validating UserDefinedStruct /Game/Characters/S_CharCustomisation.S_CharCustomisation
+[2022.11.18-16.49.16:020][  0]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/S_ModelAndSkins" FILE="../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Content/Characters/S_ModelAndSkins.uasset" SILENT=true
+[2022.11.18-16.49.16:023][  0]LogSavePackage: Moving output files for package: /Game/Characters/S_ModelAndSkins
+[2022.11.18-16.49.16:024][  0]LogSavePackage: Moving '../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Saved/S_ModelAndSkinsE8D368DC4BFDB7811E4253A59FC71D23.tmp' to '../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Content/Characters/S_ModelAndSkins.uasset'
+[2022.11.18-16.49.16:040][  0]AssetCheck: New page: Asset Save: S_ModelAndSkins
+[2022.11.18-16.49.16:040][  0]LogContentValidation: Display: Validating UserDefinedStruct /Game/Characters/S_ModelAndSkins.S_ModelAndSkins
+[2022.11.18-16.49.18:036][212]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/S_CharCustomisation" FILE="../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Content/Characters/S_CharCustomisation.uasset" SILENT=true
+[2022.11.18-16.49.18:038][212]LogSavePackage: Moving output files for package: /Game/Characters/S_CharCustomisation
+[2022.11.18-16.49.18:038][212]LogSavePackage: Moving '../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Saved/S_CharCustomisation2CDCA97C4F3E71D97EDAA48FA8DE92CD.tmp' to '../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Content/Characters/S_CharCustomisation.uasset'
+[2022.11.18-16.49.18:058][212]AssetCheck: New page: Asset Save: S_CharCustomisation
+[2022.11.18-16.49.18:058][212]LogContentValidation: Display: Validating UserDefinedStruct /Game/Characters/S_CharCustomisation.S_CharCustomisation
+[2022.11.18-16.49.22:188][676]Cmd: TRANSACTION UNDO
+[2022.11.18-16.49.22:188][676]LogEditorTransaction: Undo Remove Variable
+[2022.11.18-16.49.22:600][676]Cmd: TRANSACTION UNDO
+[2022.11.18-16.49.22:600][676]LogEditorTransaction: Undo Remove Variable
+[2022.11.18-16.49.23:040][677]Cmd: TRANSACTION UNDO
+[2022.11.18-16.49.23:040][677]LogEditorTransaction: Undo Change Parameter Type
+[2022.11.18-16.49.24:044][742]Cmd: TRANSACTION UNDO
+[2022.11.18-16.49.24:044][742]LogEditorTransaction: Undo Rename Variable
+[2022.11.18-16.49.24:876][792]Cmd: TRANSACTION UNDO
+[2022.11.18-16.49.24:876][792]LogEditorTransaction: Undo Change Parameter Type
+[2022.11.18-16.49.25:558][823]Cmd: TRANSACTION UNDO
+[2022.11.18-16.49.25:558][823]LogEditorTransaction: Undo Add Variable
+[2022.11.18-16.49.26:182][849]Cmd: TRANSACTION UNDO
+[2022.11.18-16.49.26:182][849]LogEditorTransaction: Undo Change Parameter Type
+[2022.11.18-16.49.26:526][849]LogClass: Warning: UUserDefinedStructEditorData::RecreateDefaultInstance Cannot parse value. Property: SkinsUnlockLevels String: "None"  Struct: /Game/Characters/S_ModelAndSkins.S_ModelAndSkins 
+[2022.11.18-16.49.26:526][849]LogBlueprint: Error: [AssetLog] C:\Users\EMI\Documents\GitHub\UE5_03\UE5_03\Content\Characters\S_ModelAndSkins.uasset: [Compiler] Cannot parse value. Property: SkinsUnlockLevels String: "None" 
+[2022.11.18-16.49.26:548][849]LogBlueprint: Error: [AssetLog] C:\Users\EMI\Documents\GitHub\UE5_03\UE5_03\Content\Widgets\WB_CharacterMenu.uasset: [Compiler] Invalid property 'Models and Skins_Map_Value' structure 'S_ModelAndSkins' error: Struct 'UserDefinedStruct /Game/Characters/S_ModelAndSkins.S_ModelAndSkins' is not compiled
+[2022.11.18-16.49.26:548][849]LogBlueprint: Error: [AssetLog] C:\Users\EMI\Documents\GitHub\UE5_03\UE5_03\Content\Widgets\WB_CharacterMenu.uasset: [Compiler] The variable Models and Skins_Map declared in  WB_CharacterMenu  has an invalid type Map of Names to S Model And Skins Structures
+[2022.11.18-16.49.26:909][886]Cmd: TRANSACTION UNDO
+[2022.11.18-16.49.26:909][886]LogEditorTransaction: Undo Change Parameter Type
+[2022.11.18-16.49.27:335][886]LogBlueprint: Error: [AssetLog] C:\Users\EMI\Documents\GitHub\UE5_03\UE5_03\Content\Widgets\WB_CharacterMenu.uasset: [Compiler] Invalid property 'Models and Skins_Map_Value' structure 'S_ModelAndSkins' error: Struct 'UserDefinedStruct /Game/Characters/S_ModelAndSkins.S_ModelAndSkins' is not compiled
+[2022.11.18-16.49.27:335][886]LogBlueprint: Error: [AssetLog] C:\Users\EMI\Documents\GitHub\UE5_03\UE5_03\Content\Widgets\WB_CharacterMenu.uasset: [Compiler] The variable Models and Skins_Map declared in  WB_CharacterMenu  has an invalid type Map of Names to S Model And Skins Structures
+[2022.11.18-16.49.27:699][912]Cmd: TRANSACTION UNDO
+[2022.11.18-16.49.27:699][912]LogEditorTransaction: Undo Change Parameter Type
+[2022.11.18-16.49.28:615][957]Cmd: TRANSACTION UNDO
+[2022.11.18-16.49.28:615][957]LogEditorTransaction: Undo Rename Variable
+[2022.11.18-16.49.29:568][  3]Cmd: TRANSACTION UNDO
+[2022.11.18-16.49.29:568][  3]LogEditorTransaction: Undo Add Variable
+[2022.11.18-16.49.33:553][378]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/S_ModelAndSkins" FILE="../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Content/Characters/S_ModelAndSkins.uasset" SILENT=true
+[2022.11.18-16.49.33:555][378]LogSavePackage: Moving output files for package: /Game/Characters/S_ModelAndSkins
+[2022.11.18-16.49.33:556][378]LogSavePackage: Moving '../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Saved/S_ModelAndSkins68D822244FA5D120AF3EB3BE31410961.tmp' to '../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Content/Characters/S_ModelAndSkins.uasset'
+[2022.11.18-16.49.33:578][378]AssetCheck: New page: Asset Save: S_ModelAndSkins
+[2022.11.18-16.49.33:578][378]LogContentValidation: Display: Validating UserDefinedStruct /Game/Characters/S_ModelAndSkins.S_ModelAndSkins
+[2022.11.18-16.49.35:371][566]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/S_CharCustomisation" FILE="../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Content/Characters/S_CharCustomisation.uasset" SILENT=true
+[2022.11.18-16.49.35:372][566]LogSavePackage: Moving output files for package: /Game/Characters/S_CharCustomisation
+[2022.11.18-16.49.35:373][566]LogSavePackage: Moving '../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Saved/S_CharCustomisation1DF1BD43461C52278C0606A0001660A5.tmp' to '../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Content/Characters/S_CharCustomisation.uasset'
+[2022.11.18-16.49.35:390][566]AssetCheck: New page: Asset Save: S_CharCustomisation
+[2022.11.18-16.49.35:390][566]LogContentValidation: Display: Validating UserDefinedStruct /Game/Characters/S_CharCustomisation.S_CharCustomisation
+[2022.11.18-16.49.38:640][941]Cmd: TRANSACTION UNDO
+[2022.11.18-16.49.38:640][941]LogEditorTransaction: Undo Change Parameter Type
+[2022.11.18-16.49.39:309][954]Cmd: TRANSACTION UNDO
+[2022.11.18-16.49.39:309][954]LogEditorTransaction: Undo Rename Variable
+[2022.11.18-16.49.40:288][  6]Cmd: TRANSACTION UNDO
+[2022.11.18-16.49.40:288][  6]LogEditorTransaction: Undo Add Variable
+[2022.11.18-16.49.41:838][115]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/S_ModelAndSkins" FILE="../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Content/Characters/S_ModelAndSkins.uasset" SILENT=true
+[2022.11.18-16.49.41:841][115]LogSavePackage: Moving output files for package: /Game/Characters/S_ModelAndSkins
+[2022.11.18-16.49.41:841][115]LogSavePackage: Moving '../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Saved/S_ModelAndSkins6CD24E644979F6EAAA3492B3F19B380F.tmp' to '../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Content/Characters/S_ModelAndSkins.uasset'
+[2022.11.18-16.49.41:861][115]AssetCheck: New page: Asset Save: S_ModelAndSkins
+[2022.11.18-16.49.41:861][115]LogContentValidation: Display: Validating UserDefinedStruct /Game/Characters/S_ModelAndSkins.S_ModelAndSkins
+[2022.11.18-16.49.44:354][383]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/S_CharCustomisation" FILE="../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Content/Characters/S_CharCustomisation.uasset" SILENT=true
+[2022.11.18-16.49.44:356][383]LogSavePackage: Moving output files for package: /Game/Characters/S_CharCustomisation
+[2022.11.18-16.49.44:357][383]LogSavePackage: Moving '../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Saved/S_CharCustomisation707538224A09094B38C552B7473D388C.tmp' to '../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Content/Characters/S_CharCustomisation.uasset'
+[2022.11.18-16.49.44:376][383]AssetCheck: New page: Asset Save: S_CharCustomisation
+[2022.11.18-16.49.44:376][383]LogContentValidation: Display: Validating UserDefinedStruct /Game/Characters/S_CharCustomisation.S_CharCustomisation
+[2022.11.18-16.49.45:142][470]Cmd: TRANSACTION UNDO
+[2022.11.18-16.49.45:142][470]LogEditorTransaction: Undo Remove Variable
+[2022.11.18-16.49.48:720][804]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/S_CharCustomisation" FILE="../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Content/Characters/S_CharCustomisation.uasset" SILENT=true
+[2022.11.18-16.49.48:721][804]LogSavePackage: Moving output files for package: /Game/Characters/S_CharCustomisation
+[2022.11.18-16.49.48:722][804]LogSavePackage: Moving '../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Saved/S_CharCustomisation1211344645234434931657BBB55B7A4E.tmp' to '../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Content/Characters/S_CharCustomisation.uasset'
+[2022.11.18-16.49.48:741][804]AssetCheck: New page: Asset Save: S_CharCustomisation
+[2022.11.18-16.49.48:741][804]LogContentValidation: Display: Validating UserDefinedStruct /Game/Characters/S_CharCustomisation.S_CharCustomisation
+[2022.11.18-16.50.17:442][299]LogUObjectHash: Compacting FUObjectHashTables data took   7.92ms
+[2022.11.18-16.50.17:444][299]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Map_01' took 0.385
+[2022.11.18-16.50.17:447][299]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Characters/BP_Hero_Base] ([2] browsable assets)...
+[2022.11.18-16.50.17:497][299]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Characters/BP_Hero_Base.BP_Hero_Base]
+[2022.11.18-16.50.17:497][299]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/BP_Hero_Base]
+[2022.11.18-16.50.17:741][299]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/BP_Hero_Base_Auto3
+[2022.11.18-16.50.17:742][299]LogSavePackage: Moving '../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Saved/BP_Hero_Base_Auto39C23A18B4FA68DA67AA7B998B8EDC171.tmp' to '../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Saved/Autosaves/Game/Characters/BP_Hero_Base_Auto3.uasset'
+[2022.11.18-16.50.17:743][299]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/CharCustomisation_Table] ([1] browsable assets)...
+[2022.11.18-16.50.17:743][299]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/CharCustomisation_Table]
+[2022.11.18-16.50.17:745][299]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/CharCustomisation_Table_Auto3
+[2022.11.18-16.50.17:745][299]LogSavePackage: Moving '../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Saved/CharCustomisation_Table_Auto329B60819401D8D662402E7A068AD2D19.tmp' to '../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Saved/Autosaves/Game/Characters/CharCustomisation_Table_Auto3.uasset'
+[2022.11.18-16.50.17:746][299]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Framework/BP_Menu_GameMode] ([2] browsable assets)...
+[2022.11.18-16.50.17:747][299]OBJ SavePackage: Finished generating thumbnails for package [/Game/Framework/BP_Menu_GameMode]
+[2022.11.18-16.50.17:812][299]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Framework/BP_Menu_GameMode_Auto3
+[2022.11.18-16.50.17:814][299]LogSavePackage: Moving '../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Saved/BP_Menu_GameMode_Auto3448E9A03497B141B28A571B26721F74D.tmp' to '../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Saved/Autosaves/Game/Framework/BP_Menu_GameMode_Auto3.uasset'
+[2022.11.18-16.50.17:815][299]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Widgets/WB_CharacterMenu] ([2] browsable assets)...
+[2022.11.18-16.50.17:831][299]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Widgets/WB_CharacterMenu.WB_CharacterMenu]
+[2022.11.18-16.50.17:831][299]OBJ SavePackage: Finished generating thumbnails for package [/Game/Widgets/WB_CharacterMenu]
+[2022.11.18-16.50.18:044][299]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Widgets/WB_CharacterMenu_Auto3
+[2022.11.18-16.50.18:044][299]LogSavePackage: Moving '../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Saved/WB_CharacterMenu_Auto37AFB4BAA461B3E0D1974D0A2D20A7E42.tmp' to '../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Saved/Autosaves/Game/Widgets/WB_CharacterMenu_Auto3.uasset'
+[2022.11.18-16.50.18:064][299]LogFileHelpers: Auto-saving content packages took 0.618
+[2022.11.18-16.50.24:528][389]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2022.11.18-16.50.24:587][389]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/BP_Hero_Base" FILE="../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Content/Characters/BP_Hero_Base.uasset" SILENT=true
+[2022.11.18-16.50.24:748][389]LogSavePackage: Moving output files for package: /Game/Characters/BP_Hero_Base
+[2022.11.18-16.50.24:749][389]LogSavePackage: Moving '../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Saved/BP_Hero_BaseC2B02AB340EF93031263C3AD466D7C6D.tmp' to '../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Content/Characters/BP_Hero_Base.uasset'
+[2022.11.18-16.50.24:750][389]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/CharCustomisation_Table" FILE="../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Content/Characters/CharCustomisation_Table.uasset" SILENT=true
+[2022.11.18-16.50.24:752][389]LogSavePackage: Moving output files for package: /Game/Characters/CharCustomisation_Table
+[2022.11.18-16.50.24:753][389]LogSavePackage: Moving '../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Saved/CharCustomisation_TableFAD5F2EF4687A9803D61C1BEF2D3E038.tmp' to '../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Content/Characters/CharCustomisation_Table.uasset'
+[2022.11.18-16.50.24:754][389]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Framework/BP_Menu_GameMode" FILE="../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Content/Framework/BP_Menu_GameMode.uasset" SILENT=true
+[2022.11.18-16.50.24:804][389]LogSavePackage: Moving output files for package: /Game/Framework/BP_Menu_GameMode
+[2022.11.18-16.50.24:806][389]LogSavePackage: Moving '../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Saved/BP_Menu_GameMode497C52B24193E9D0DC8A4B96466DBEB2.tmp' to '../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Content/Framework/BP_Menu_GameMode.uasset'
+[2022.11.18-16.50.24:808][389]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/WB_CharacterMenu" FILE="../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Content/Widgets/WB_CharacterMenu.uasset" SILENT=true
+[2022.11.18-16.50.24:906][389]LogSavePackage: Moving output files for package: /Game/Widgets/WB_CharacterMenu
+[2022.11.18-16.50.24:907][389]LogSavePackage: Moving '../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Saved/WB_CharacterMenu3E4D86A64F82A6CA4BA6EB86A1C7C97E.tmp' to '../../../../../../Users/EMI/Documents/GitHub/UE5_03/UE5_03/Content/Widgets/WB_CharacterMenu.uasset'
+[2022.11.18-16.50.24:942][389]AssetCheck: New page: Asset Save: multiple assets
+[2022.11.18-16.50.24:942][389]LogContentValidation: Display: Validating Blueprint /Game/Characters/BP_Hero_Base.BP_Hero_Base
+[2022.11.18-16.50.24:942][389]LogContentValidation: Display: Validating DataTable /Game/Characters/CharCustomisation_Table.CharCustomisation_Table
+[2022.11.18-16.50.24:942][389]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widgets/WB_CharacterMenu.WB_CharacterMenu
+[2022.11.18-16.50.24:944][389]LogContentValidation: Display: Validating Blueprint /Game/Framework/BP_Menu_GameMode.BP_Menu_GameMode
+[2022.11.18-16.50.25:988][490]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2022.11.18-16.50.25:994][490]LogStall: Shutdown...
+[2022.11.18-16.50.26:000][490]LogStall: Shutdown complete.
+[2022.11.18-16.50.26:067][490]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2022.11.18-16.50.26:068][490]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.18-16.50.26:082][490]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2022.11.18-16.50.26:082][490]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.18-16.50.26:158][490]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2022.11.18-16.50.26:158][490]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.18-16.50.26:170][490]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2022.11.18-16.50.26:170][490]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.18-16.50.26:260][490]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2022.11.18-16.50.26:260][490]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.18-16.50.26:352][490]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2022.11.18-16.50.26:352][490]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.18-16.50.26:421][490]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2022.11.18-16.50.26:421][490]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.18-16.50.26:574][490]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.11.18-16.50.26:575][490]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2022.11.18-16.50.26:575][490]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.18-16.50.26:686][490]LogSlate: Window 'UE5_03 - Unreal Editor' being destroyed
+[2022.11.18-16.50.26:996][491]Cmd: QUIT_EDITOR
+[2022.11.18-16.50.26:996][491]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2022.11.18-16.50.27:009][491]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2022.11.18-16.50.27:010][491]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2022.11.18-16.50.27:010][491]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2022.11.18-16.50.27:035][491]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2022.11.18-16.50.27:035][491]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2022.11.18-16.50.27:035][491]LogAudio: Display: Audio Device unregistered from world 'Map_01'.
+[2022.11.18-16.50.27:038][491]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2022.11.18-16.50.27:040][491]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2022.11.18-16.50.27:049][491]LogAudio: Display: Audio Device Manager Shutdown
+[2022.11.18-16.50.27:054][491]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2022.11.18-16.50.27:054][491]LogExit: Preparing to exit.
+[2022.11.18-16.50.27:205][491]LogUObjectHash: Compacting FUObjectHashTables data took   4.33ms
+[2022.11.18-16.50.27:226][491]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.11.18-16.50.27:226][491]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.11.18-16.50.27:226][491]LogPython: Display: Object '/Engine/PythonTypes.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.11.18-16.50.27:226][491]LogPython: Display: Object '/Engine/PythonTypes.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.11.18-16.50.27:227][491]LogPython: Display: Object '/Engine/PythonTypes.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.11.18-16.50.27:227][491]LogPython: Display: Object '/Engine/PythonTypes.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.11.18-16.50.27:227][491]LogPython: Display: Object '/Engine/PythonTypes.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.11.18-16.50.27:227][491]LogPython: Display: Object '/Engine/PythonTypes.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.11.18-16.50.27:227][491]LogPython: Display: Object '/Engine/PythonTypes.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.11.18-16.50.27:227][491]LogPython: Display: Object '/Engine/PythonTypes.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.11.18-16.50.27:227][491]LogPython: Display: Object '/Engine/PythonTypes.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.11.18-16.50.27:699][491]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.11.18-16.50.27:699][491]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.11.18-16.50.27:699][491]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.11.18-16.50.27:699][491]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.11.18-16.50.27:699][491]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.11.18-16.50.27:699][491]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.11.18-16.50.27:699][491]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.11.18-16.50.27:699][491]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.11.18-16.50.27:701][491]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.11.18-16.50.27:701][491]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.11.18-16.50.27:701][491]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.11.18-16.50.27:701][491]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.11.18-16.50.27:701][491]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.11.18-16.50.27:701][491]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.11.18-16.50.27:701][491]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.11.18-16.50.27:701][491]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.11.18-16.50.27:703][491]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.11.18-16.50.27:703][491]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.11.18-16.50.27:703][491]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.11.18-16.50.27:703][491]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.11.18-16.50.27:703][491]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.11.18-16.50.27:703][491]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.11.18-16.50.27:703][491]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.11.18-16.50.27:703][491]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.11.18-16.50.27:705][491]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.11.18-16.50.27:705][491]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.11.18-16.50.27:705][491]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.11.18-16.50.27:705][491]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.11.18-16.50.27:705][491]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.11.18-16.50.27:705][491]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.11.18-16.50.27:705][491]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.11.18-16.50.27:705][491]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.11.18-16.50.27:707][491]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.11.18-16.50.27:707][491]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.11.18-16.50.27:707][491]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.11.18-16.50.27:707][491]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.11.18-16.50.27:707][491]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.11.18-16.50.27:707][491]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.11.18-16.50.27:707][491]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.11.18-16.50.27:707][491]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.11.18-16.50.27:709][491]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2022.11.18-16.50.27:711][491]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.11.18-16.50.27:711][491]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.11.18-16.50.27:711][491]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.11.18-16.50.27:711][491]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.11.18-16.50.27:711][491]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.11.18-16.50.27:711][491]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.11.18-16.50.27:711][491]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.11.18-16.50.27:711][491]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.11.18-16.50.27:713][491]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.11.18-16.50.27:713][491]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.11.18-16.50.27:714][491]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.11.18-16.50.27:714][491]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.11.18-16.50.27:714][491]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.11.18-16.50.27:714][491]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.11.18-16.50.27:714][491]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.11.18-16.50.27:714][491]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.11.18-16.50.27:720][491]LogWorld: UWorld::CleanupWorld for Map_01, bSessionEnded=true, bCleanupResources=true
+[2022.11.18-16.50.27:792][491]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2022.11.18-16.50.27:887][491]LogStylusInput: Shutting down StylusInput subsystem.
+[2022.11.18-16.50.27:889][491]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2022.11.18-16.50.27:901][491]LogExit: Editor shut down
+[2022.11.18-16.50.27:907][491]LogExit: Transaction tracking system shut down
